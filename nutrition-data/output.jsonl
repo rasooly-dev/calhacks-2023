@@ -1,335 +1,335 @@
-{"text": {"food": "Cows' milk", "measure": "1 qt.", "grams": "976", "calories": "660", "protein": "32", "fat": "40", "sat.fat": "36", "fiber": "0", "carbs": "48", "category": "Dairy products"}}
-{"text": {"food": "Milk skim", "measure": "1 qt.", "grams": "984", "calories": "360", "protein": "36", "fat": "t", "sat.fat": "t", "fiber": "0", "carbs": "52", "category": "Dairy products"}}
-{"text": {"food": "Buttermilk", "measure": "1 cup", "grams": "246", "calories": "127", "protein": "9", "fat": "5", "sat.fat": "4", "fiber": "0", "carbs": "13", "category": "Dairy products"}}
-{"text": {"food": "Evaporated, undiluted", "measure": "1 cup", "grams": "252", "calories": "345", "protein": "16", "fat": "20", "sat.fat": "18", "fiber": "0", "carbs": "24", "category": "Dairy products"}}
-{"text": {"food": "Fortified milk", "measure": "6 cups", "grams": "1,419", "calories": "1,373", "protein": "89", "fat": "42", "sat.fat": "23", "fiber": "1.4", "carbs": "119", "category": "Dairy products"}}
-{"text": {"food": "Powdered milk", "measure": "1 cup", "grams": "103", "calories": "515", "protein": "27", "fat": "28", "sat.fat": "24", "fiber": "0", "carbs": "39", "category": "Dairy products"}}
-{"text": {"food": "skim, instant", "measure": "1 1/3 cups", "grams": "85", "calories": "290", "protein": "30", "fat": "t", "sat.fat": "t", "fiber": "0", "carbs": "42", "category": "Dairy products"}}
-{"text": {"food": "skim, non-instant", "measure": "2/3 cup", "grams": "85", "calories": "290", "protein": "30", "fat": "t", "sat.fat": "t", "fiber": "1", "carbs": "42", "category": "Dairy products"}}
-{"text": {"food": "Goats' milk", "measure": "1 cup", "grams": "244", "calories": "165", "protein": "8", "fat": "10", "sat.fat": "8", "fiber": "0", "carbs": "11", "category": "Dairy products"}}
-{"text": {"food": "(1/2 cup ice cream)", "measure": "2 cups", "grams": "540", "calories": "690", "protein": "24", "fat": "24", "sat.fat": "22", "fiber": "0", "carbs": "70", "category": "Dairy products"}}
-{"text": {"food": "Cocoa", "measure": "1 cup", "grams": "252", "calories": "235", "protein": "8", "fat": "11", "sat.fat": "10", "fiber": "0", "carbs": "26", "category": "Dairy products"}}
-{"text": {"food": "skim. milk", "measure": "1 cup", "grams": "250", "calories": "128", "protein": "18", "fat": "4", "sat.fat": "3", "fiber": "1", "carbs": "13", "category": "Dairy products"}}
-{"text": {"food": "(cornstarch)", "measure": "1 cup", "grams": "248", "calories": "275", "protein": "9", "fat": "10", "sat.fat": "9", "fiber": "0", "carbs": "40", "category": "Dairy products"}}
-{"text": {"food": "Custard", "measure": "1 cup", "grams": "248", "calories": "285", "protein": "13", "fat": "14", "sat.fat": "11", "fiber": "0", "carbs": "28", "category": "Dairy products"}}
-{"text": {"food": "Ice cream", "measure": "1 cup", "grams": "188", "calories": "300", "protein": "6", "fat": "18", "sat.fat": "16", "fiber": "0", "carbs": "29", "category": "Dairy products"}}
-{"text": {"food": "Ice milk", "measure": "1 cup", "grams": "190", "calories": "275", "protein": "9", "fat": "10", "sat.fat": "9", "fiber": "0", "carbs": "32", "category": "Dairy products"}}
-{"text": {"food": "Cream or half-and-half", "measure": "1/2 cup", "grams": "120", "calories": "170", "protein": "4", "fat": "15", "sat.fat": "13", "fiber": "0", "carbs": "5", "category": "Dairy products"}}
-{"text": {"food": "or whipping", "measure": "1/2 cup", "grams": "119", "calories": "430", "protein": "2", "fat": "44", "sat.fat": "27", "fiber": "1", "carbs": "3", "category": "Dairy products"}}
-{"text": {"food": "Cheese", "measure": "1 cup", "grams": "225", "calories": "240", "protein": "30", "fat": "11", "sat.fat": "10", "fiber": "0", "carbs": "6", "category": "Dairy products"}}
-{"text": {"food": "uncreamed", "measure": "1 cup", "grams": "225", "calories": "195", "protein": "38", "fat": "t", "sat.fat": "t", "fiber": "0", "carbs": "6", "category": "Dairy products"}}
-{"text": {"food": "Cheddar", "measure": "1-in. cube", "grams": "17", "calories": "70", "protein": "4", "fat": "6", "sat.fat": "5", "fiber": "0", "carbs": "t", "category": "Dairy products"}}
-{"text": {"food": "Cheddar, grated cup", "measure": "1/2 cup", "grams": "56", "calories": "226", "protein": "14", "fat": "19", "sat.fat": "17", "fiber": "0", "carbs": "1", "category": "Dairy products"}}
-{"text": {"food": "Cream cheese", "measure": "1 oz.", "grams": "28", "calories": "105", "protein": "2", "fat": "11", "sat.fat": "10", "fiber": "0", "carbs": "1", "category": "Dairy products"}}
-{"text": {"food": "Processed cheese", "measure": "1 oz.", "grams": "28", "calories": "105", "protein": "7", "fat": "9", "sat.fat": "8", "fiber": "0", "carbs": "t", "category": "Dairy products"}}
-{"text": {"food": "Roquefort type", "measure": "1 oz.", "grams": "28", "calories": "105", "protein": "6", "fat": "9", "sat.fat": "8", "fiber": "0", "carbs": "t", "category": "Dairy products"}}
-{"text": {"food": "Swiss", "measure": "1 oz.", "grams": "28", "calories": "105", "protein": "7", "fat": "8", "sat.fat": "7", "fiber": "0", "carbs": "t", "category": "Dairy products"}}
-{"text": {"food": "Eggs raw", "measure": "2", "grams": "100", "calories": "150", "protein": "12", "fat": "12", "sat.fat": "10", "fiber": "0", "carbs": "t", "category": "Dairy products"}}
-{"text": {"food": "Eggs Scrambled or fried", "measure": "2", "grams": "128", "calories": "220", "protein": "13", "fat": "16", "sat.fat": "14", "fiber": "0", "carbs": "1", "category": "Dairy products"}}
-{"text": {"food": "Yolks", "measure": "2", "grams": "34", "calories": "120", "protein": "6", "fat": "10", "sat.fat": "8", "fiber": "0", "carbs": "t", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Butter", "measure": "1T.", "grams": "14", "calories": "100", "protein": "t", "fat": "11", "sat.fat": "10", "fiber": "0", "carbs": "t", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Butter", "measure": "1/2 cup", "grams": "112", "calories": "113", "protein": "114", "fat": "115", "sat.fat": "116", "fiber": "117", "carbs": "118", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Butter", "measure": "1/4\u00a0lb.", "grams": "112", "calories": "113", "protein": "114", "fat": "115", "sat.fat": "116", "fiber": "117", "carbs": "118", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Hydrogenated cooking fat", "measure": "1/2 cup", "grams": "100", "calories": "665", "protein": "0", "fat": "100", "sat.fat": "88", "fiber": "0", "carbs": "0", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Lard", "measure": "1/2 cup", "grams": "110", "calories": "992", "protein": "0", "fat": "110", "sat.fat": "92", "fiber": "0", "carbs": "0", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Margarine", "measure": "1/2 cup", "grams": "112", "calories": "806", "protein": "t", "fat": "91", "sat.fat": "76", "fiber": "0", "carbs": "t", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Margarine, 2 pat or", "measure": "1 T.", "grams": "14", "calories": "100", "protein": "t", "fat": "11", "sat.fat": "9", "fiber": "0", "carbs": "t", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Mayonnaise", "measure": "1 T.", "grams": "15", "calories": "110", "protein": "t", "fat": "12", "sat.fat": "5", "fiber": "0", "carbs": "t", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Corn oil", "measure": "1 T.", "grams": "14", "calories": "125", "protein": "0", "fat": "14", "sat.fat": "5", "fiber": "0", "carbs": "0", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Olive oil", "measure": "1T.", "grams": "14", "calories": "125", "protein": "0", "fat": "14", "sat.fat": "3", "fiber": "0", "carbs": "0", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Safflower seed oil", "measure": "1 T.", "grams": "14", "calories": "125", "protein": "0", "fat": "14", "sat.fat": "3", "fiber": "0", "carbs": "0", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "French dressing", "measure": "1 T.", "grams": "15", "calories": "60", "protein": "t", "fat": "6", "sat.fat": "2", "fiber": "0", "carbs": "2", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Thousand Island sauce", "measure": "1 T.", "grams": "15", "calories": "75", "protein": "t", "fat": "8", "sat.fat": "3", "fiber": "0", "carbs": "1", "category": "Fats, Oils, Shortenings"}}
-{"text": {"food": "Salt pork", "measure": "2 oz.", "grams": "60", "calories": "470", "protein": "3", "fat": "55", "sat.fat": "nan", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Bacon", "measure": "2 slices", "grams": "16", "calories": "95", "protein": "4", "fat": "8", "sat.fat": "7", "fiber": "0", "carbs": "1", "category": "Meat, Poultry"}}
-{"text": {"food": "Beef", "measure": "3 oz.", "grams": "85", "calories": "245", "protein": "23", "fat": "16", "sat.fat": "15", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Hamburger", "measure": "3 oz.", "grams": "85", "calories": "245", "protein": "21", "fat": "17", "sat.fat": "15", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Ground lean", "measure": "3 oz.", "grams": "85", "calories": "185", "protein": "24", "fat": "10", "sat.fat": "9", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Roast beef", "measure": "3 oz.", "grams": "85", "calories": "390", "protein": "16", "fat": "36", "sat.fat": "35", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Steak", "measure": "3 oz.", "grams": "85", "calories": "330", "protein": "20", "fat": "27", "sat.fat": "25", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Steak, lean, as round", "measure": "3 oz.", "grams": "85", "calories": "220", "protein": "24", "fat": "12", "sat.fat": "11", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Corned beef", "measure": "3 oz.", "grams": "85", "calories": "185", "protein": "22", "fat": "10", "sat.fat": "9", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Corned beef hash canned", "measure": "3 oz.", "grams": "85", "calories": "120", "protein": "12", "fat": "8", "sat.fat": "7", "fiber": "t", "carbs": "6", "category": "Meat, Poultry"}}
-{"text": {"food": "Corned beef hash Dried", "measure": "2 oz.", "grams": "56", "calories": "115", "protein": "19", "fat": "4", "sat.fat": "4", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Pot-pie", "measure": "1 pie", "grams": "227", "calories": "480", "protein": "18", "fat": "28", "sat.fat": "25", "fiber": "t", "carbs": "32", "category": "Meat, Poultry"}}
-{"text": {"food": "Corned beef hash Stew", "measure": "1 cup", "grams": "235", "calories": "185", "protein": "15", "fat": "10", "sat.fat": "9", "fiber": "t", "carbs": "15", "category": "Meat, Poultry"}}
-{"text": {"food": "chicken", "measure": "3 oz.", "grams": "85", "calories": "185", "protein": "23", "fat": "9", "sat.fat": "7", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Fried, breast or leg and thigh chicken", "measure": "3 oz.", "grams": "85", "calories": "245", "protein": "25", "fat": "15", "sat.fat": "11", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Roasted chicken", "measure": "3 1/2 oz.", "grams": "100", "calories": "290", "protein": "25", "fat": "20", "sat.fat": "16", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Chicken livers, fried", "measure": "3 med.", "grams": "100", "calories": "140", "protein": "22", "fat": "14", "sat.fat": "12", "fiber": "0", "carbs": "2.30", "category": "Meat, Poultry"}}
-{"text": {"food": "Duck, domestic", "measure": "3 1/2 oz.", "grams": "100", "calories": "370", "protein": "16", "fat": "28", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Lamb, chop, broiled", "measure": "4 oz.", "grams": "115", "calories": "480", "protein": "24", "fat": "35", "sat.fat": "33", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Leg roasted", "measure": "3 oz.", "grams": "86", "calories": "314", "protein": "20", "fat": "14", "sat.fat": "14", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Shoulder, braised", "measure": "3 oz.", "grams": "85", "calories": "285", "protein": "18", "fat": "23", "sat.fat": "21", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Pork, chop, 1 thick", "measure": "3 1/2 oz.", "grams": "100", "calories": "260", "protein": "16", "fat": "21", "sat.fat": "18", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Ham pan-broiled", "measure": "3 oz.", "grams": "85", "calories": "290", "protein": "16", "fat": "22", "sat.fat": "19", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Ham, as ", "measure": "2 oz.", "grams": "57", "calories": "170", "protein": "13", "fat": "13", "sat.fat": "11", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Ham, canned, spiced", "measure": "2 oz.", "grams": "57", "calories": "165", "protein": "8", "fat": "14", "sat.fat": "12", "fiber": "0", "carbs": "1", "category": "Meat, Poultry"}}
-{"text": {"food": "Pork roast", "measure": "3 oz.", "grams": "85", "calories": "310", "protein": "21", "fat": "24", "sat.fat": "21", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Pork sausage", "measure": "3 1/2 oz.", "grams": "100", "calories": "475", "protein": "18", "fat": "44", "sat.fat": "40", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Turkey", "measure": "3 1/2 oz.", "grams": "100", "calories": "265", "protein": "27", "fat": "15", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Veal", "measure": "3 oz.", "grams": "85", "calories": "185", "protein": "23", "fat": "9", "sat.fat": "8", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Roast", "measure": "3 oz.", "grams": "85", "calories": "305", "protein": "13", "fat": "14", "sat.fat": "13", "fiber": "0", "carbs": "0", "category": "Meat, Poultry"}}
-{"text": {"food": "Clams", "measure": "3 oz.", "grams": "85", "calories": "87", "protein": "12", "fat": "1", "sat.fat": "0", "fiber": "0", "carbs": "2", "category": "Fish, Seafood"}}
-{"text": {"food": "Cod", "measure": "3 1/2 oz.", "grams": "100", "calories": "170", "protein": "28", "fat": "5", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Crab meat", "measure": "3 oz.", "grams": "85", "calories": "90", "protein": "14", "fat": "2", "sat.fat": "0", "fiber": "0", "carbs": "1", "category": "Fish, Seafood"}}
-{"text": {"food": "Fish sticks fried", "measure": "5", "grams": "112", "calories": "200", "protein": "19", "fat": "10", "sat.fat": "5", "fiber": "0", "carbs": "8", "category": "Fish, Seafood"}}
-{"text": {"food": "Flounder", "measure": "3 1/2 oz.", "grams": "100", "calories": "200", "protein": "30", "fat": "8", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Haddock", "measure": "3 oz.", "grams": "85", "calories": "135", "protein": "16", "fat": "5", "sat.fat": "4", "fiber": "0", "carbs": "6", "category": "Fish, Seafood"}}
-{"text": {"food": "Halibut", "measure": "3 1/2 oz.", "grams": "100", "calories": "182", "protein": "26", "fat": "8", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Herring", "measure": "1 small", "grams": "100", "calories": "211", "protein": "22", "fat": "13", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Lobster", "measure": "aver.", "grams": "100", "calories": "92", "protein": "18", "fat": "1", "sat.fat": "0", "fiber": "0", "carbs": "t", "category": "Fish, Seafood"}}
-{"text": {"food": "Mackerel", "measure": "3 oz.", "grams": "85", "calories": "155", "protein": "18", "fat": "9", "sat.fat": "0", "fiber": "a", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Oysters", "measure": "6-8 med.", "grams": "230", "calories": "231", "protein": "232", "fat": "233", "sat.fat": "234", "fiber": "235", "carbs": "236", "category": "Fish, Seafood"}}
-{"text": {"food": "Oyster stew", "measure": "1 cup", "grams": "85", "calories": "125", "protein": "19", "fat": "6", "sat.fat": "1", "fiber": "0", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Salmon", "measure": "3 oz.", "grams": "85", "calories": "120", "protein": "17", "fat": "5", "sat.fat": "1", "fiber": "0", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Sardines", "measure": "3 oz.", "grams": "85", "calories": "180", "protein": "22", "fat": "9", "sat.fat": "4", "fiber": "0", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Scallops", "measure": "3 1/2 oz.", "grams": "100", "calories": "104", "protein": "18", "fat": "8", "sat.fat": "0", "fiber": "0", "carbs": "10", "category": "Fish, Seafood"}}
-{"text": {"food": "Shad", "measure": "3 oz.", "grams": "85", "calories": "170", "protein": "20", "fat": "10", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Shrimp", "measure": "3 oz.", "grams": "85", "calories": "110", "protein": "23", "fat": "1", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Swordfish", "measure": "1 steak", "grams": "100", "calories": "180", "protein": "27", "fat": "6", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Tuna", "measure": "3 oz.", "grams": "85", "calories": "170", "protein": "25", "fat": "7", "sat.fat": "3", "fiber": "0", "carbs": "0", "category": "Fish, Seafood"}}
-{"text": {"food": "Artichoke", "measure": "1 large", "grams": "100", "calories": "8-44", "protein": "2", "fat": "t", "sat.fat": "t", "fiber": "2", "carbs": "10", "category": "Vegetables A-E"}}
-{"text": {"food": "Asparagus", "measure": "6 spears", "grams": "96", "calories": "18", "protein": "1", "fat": "t", "sat.fat": "t", "fiber": "0.5", "carbs": "3", "category": "Vegetables A-E"}}
-{"text": {"food": "Beans", "measure": "1 cup", "grams": "125", "calories": "25", "protein": "1", "fat": "t", "sat.fat": "t", "fiber": "0.8", "carbs": "6", "category": "Vegetables A-E"}}
-{"text": {"food": "Lima", "measure": "1 cup", "grams": "160", "calories": "140", "protein": "8", "fat": "t", "sat.fat": "t", "fiber": "3.0", "carbs": "24", "category": "Vegetables A-E"}}
-{"text": {"food": "Lima, dry, cooked", "measure": "1 cup", "grams": "192", "calories": "260", "protein": "16", "fat": "t", "sat.fat": "t", "fiber": "2", "carbs": "48", "category": "Vegetables A-E"}}
-{"text": {"food": "Navy, baked with pork", "measure": "3/4 cup", "grams": "200", "calories": "250", "protein": "11", "fat": "6", "sat.fat": "6", "fiber": "2", "carbs": "37", "category": "Vegetables A-E"}}
-{"text": {"food": "Red kidney", "measure": "1 cup", "grams": "260", "calories": "230", "protein": "15", "fat": "1", "sat.fat": "0", "fiber": "2.5", "carbs": "42", "category": "Vegetables A-E"}}
-{"text": {"food": "Bean sprouts", "measure": "1 cup", "grams": "50", "calories": "17", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.3", "carbs": "3", "category": "Vegetables A-E"}}
-{"text": {"food": "Beet greens", "measure": "1 cup", "grams": "100", "calories": "27", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "1.4", "carbs": "6", "category": "Vegetables A-E"}}
-{"text": {"food": "Beetroots", "measure": "1 cup", "grams": "165", "calories": "1", "protein": "12", "fat": "0", "sat.fat": "nan", "fiber": "t", "carbs": "0.80", "category": "Vegetables A-E"}}
-{"text": {"food": "Broccoli", "measure": "1 cup", "grams": "150", "calories": "45", "protein": "5", "fat": "t", "sat.fat": "0", "fiber": "1.9", "carbs": "8", "category": "Vegetables A-E"}}
-{"text": {"food": "Brussels sprouts", "measure": "1 cup", "grams": "130", "calories": "60", "protein": "6", "fat": "t", "sat.fat": "0", "fiber": "1.7", "carbs": "12", "category": "Vegetables A-E"}}
-{"text": {"food": "Sauerkraut", "measure": "1 cup", "grams": "150", "calories": "32", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1.2", "carbs": "7", "category": "Vegetables A-E"}}
-{"text": {"food": "Steamed cabbage", "measure": "1 cup", "grams": "170", "calories": "40", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "1.3", "carbs": "9", "category": "Vegetables A-E"}}
-{"text": {"food": "Carrots", "measure": "1 cup", "grams": "150", "calories": "45", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.9", "carbs": "10", "category": "Vegetables A-E"}}
-{"text": {"food": "Raw, grated", "measure": "1 cup", "grams": "110", "calories": "45", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1.2", "carbs": "10", "category": "Vegetables A-E"}}
-{"text": {"food": "Strips, from raw", "measure": "1 mad.", "grams": "50", "calories": "20", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "0.5", "carbs": "5", "category": "Vegetables A-E"}}
-{"text": {"food": "Cauliflower", "measure": "1 cup", "grams": "120", "calories": "30", "protein": "3", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "6", "category": "Vegetables A-E"}}
-{"text": {"food": "Celery", "measure": "1 cup", "grams": "100", "calories": "20", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "4", "category": "Vegetables A-E"}}
-{"text": {"food": "Stalk raw", "measure": "1 large", "grams": "40", "calories": "5", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.3", "carbs": "1", "category": "Vegetables A-E"}}
-{"text": {"food": "Chard steamed", "measure": "1 cup", "grams": "150", "calories": "30", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "1.4", "carbs": "7", "category": "Vegetables A-E"}}
-{"text": {"food": "Collards", "measure": "1 cup", "grams": "150", "calories": "51", "protein": "5", "fat": "t", "sat.fat": "0", "fiber": "2", "carbs": "8", "category": "Vegetables A-E"}}
-{"text": {"food": "Corn", "measure": "1 ear", "grams": "100", "calories": "92", "protein": "3", "fat": "1", "sat.fat": "t", "fiber": "0.8", "carbs": "21", "category": "Vegetables A-E"}}
-{"text": {"food": "cooked or canned", "measure": "1 cup", "grams": "200", "calories": "170", "protein": "5", "fat": "t", "sat.fat": "0", "fiber": "1.6", "carbs": "41", "category": "Vegetables A-E"}}
-{"text": {"food": "Cucumbers", "measure": "8", "grams": "50", "calories": "6", "protein": "t", "fat": "0", "sat.fat": "0", "fiber": "0.2", "carbs": "1", "category": "Vegetables A-E"}}
-{"text": {"food": "Dandelion greens", "measure": "1 cup", "grams": "180", "calories": "80", "protein": "5", "fat": "1", "sat.fat": "0", "fiber": "3.2", "carbs": "16", "category": "Vegetables A-E"}}
-{"text": {"food": "Eggplant", "measure": "1 cup", "grams": "180", "calories": "30", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "1.0", "carbs": "9", "category": "Vegetables A-E"}}
-{"text": {"food": "Endive", "measure": "2 oz.", "grams": "57", "calories": "10", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.6", "carbs": "2", "category": "Vegetables A-E"}}
-{"text": {"food": "Kale", "measure": "1 cup", "grams": "110", "calories": "45", "protein": "4", "fat": "1", "sat.fat": "0", "fiber": "0.9", "carbs": "8", "category": "Vegetables F-P"}}
-{"text": {"food": "Kohlrabi", "measure": "1 cup", "grams": "140", "calories": "40", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "1.5", "carbs": "9", "category": "Vegetables F-P"}}
-{"text": {"food": "Lambs quarters, steamed", "measure": "1 cup", "grams": "150", "calories": "48", "protein": "5", "fat": "t", "sat.fat": "0", "fiber": "3.2", "carbs": "7", "category": "Vegetables F-P"}}
-{"text": {"food": "Lentils", "measure": "1 cup", "grams": "200", "calories": "212", "protein": "15", "fat": "t", "sat.fat": "0", "fiber": "2.4", "carbs": "38", "category": "Vegetables F-P"}}
-{"text": {"food": "Lettuce", "measure": "1/4 head", "grams": "100", "calories": "14", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.5", "carbs": "2", "category": "Vegetables F-P"}}
-{"text": {"food": "Iceberg", "measure": "1/4 head", "grams": "100", "calories": "13", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "0.5", "carbs": "3", "category": "Vegetables F-P"}}
-{"text": {"food": "Mushrooms canned", "measure": "4", "grams": "120", "calories": "12", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "t", "carbs": "4", "category": "Vegetables F-P"}}
-{"text": {"food": "Mustard greens", "measure": "1", "grams": "140", "calories": "30", "protein": "3", "fat": "t", "sat.fat": "0", "fiber": "1.2", "carbs": "6", "category": "Vegetables F-P"}}
-{"text": {"food": "Okra", "measure": "1 1/3 cups", "grams": "100", "calories": "32", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "7", "category": "Vegetables F-P"}}
-{"text": {"food": "Onions", "measure": "1", "grams": "210", "calories": "80", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "1.6", "carbs": "18", "category": "Vegetables F-P"}}
-{"text": {"food": "Raw, green", "measure": "6 small", "grams": "50", "calories": "22", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "5", "category": "Vegetables F-P"}}
-{"text": {"food": "Parsley", "measure": "2 T.", "grams": "50", "calories": "2", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "t", "carbs": "t", "category": "Vegetables F-P"}}
-{"text": {"food": "Parsnips", "measure": "1 cup", "grams": "155", "calories": "95", "protein": "2", "fat": "1", "sat.fat": "0", "fiber": "3", "carbs": "22", "category": "Vegetables F-P"}}
-{"text": {"food": "Peas", "measure": "1 cup", "grams": "100", "calories": "66", "protein": "3", "fat": "t", "sat.fat": "0", "fiber": "0.1", "carbs": "13", "category": "Vegetables F-P"}}
-{"text": {"food": "Fresh, steamed peas", "measure": "1 cup", "grams": "100", "calories": "70", "protein": "5", "fat": "t", "sat.fat": "0", "fiber": "2.2", "carbs": "12", "category": "Vegetables R-Z"}}
-{"text": {"food": "Frozen peas", "measure": "1 cup", "grams": "100", "calories": "nan", "protein": "5", "fat": "t", "sat.fat": "0", "fiber": "1.8", "carbs": "12", "category": "Vegetables R-Z"}}
-{"text": {"food": "Split cooked peas", "measure": "4 cups", "grams": "100", "calories": "115", "protein": "8", "fat": "t", "sat.fat": "0", "fiber": "0.4", "carbs": "21", "category": "Vegetables R-Z"}}
-{"text": {"food": "heated peas", "measure": "1 cup", "grams": "100", "calories": "53", "protein": "3", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "10", "category": "Vegetables R-Z"}}
-{"text": {"food": "Peppers canned", "measure": "1 pod", "grams": "38", "calories": "10", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "t", "carbs": "2", "category": "Vegetables R-Z"}}
-{"text": {"food": "Peppers Raw, green, sweet", "measure": "1 large", "grams": "100", "calories": "25", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1.4", "carbs": "6", "category": "Vegetables R-Z"}}
-{"text": {"food": "Peppers with beef and crumbs", "measure": "1 med.", "grams": "150", "calories": "255", "protein": "19", "fat": "9", "sat.fat": "8", "fiber": "1", "carbs": "24", "category": "Vegetables R-Z"}}
-{"text": {"food": "Potatoes, baked", "measure": "1 med.", "grams": "100", "calories": "100", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "0.5", "carbs": "22", "category": "Vegetables R-Z"}}
-{"text": {"food": "French-fried", "measure": "10 pieces", "grams": "60", "calories": "155", "protein": "-1", "fat": "7", "sat.fat": "3", "fiber": "0.4", "carbs": "20", "category": "Vegetables R-Z"}}
-{"text": {"food": "Potatoes Mashed with milk and butter", "measure": "1 cup", "grams": "200", "calories": "230", "protein": "4", "fat": "12", "sat.fat": "11", "fiber": "0.7", "carbs": "28", "category": "Vegetables R-Z"}}
-{"text": {"food": "Potatoes, pan-tried", "measure": "3/4 cup", "grams": "100", "calories": "268", "protein": "4", "fat": "14", "sat.fat": "6", "fiber": "0.40", "carbs": "33", "category": "Vegetables R-Z"}}
-{"text": {"food": "Scalloped with cheese potatoes", "measure": "3/4 cup", "grams": "100", "calories": "145", "protein": "6", "fat": "8", "sat.fat": "7", "fiber": "0.40", "carbs": "14", "category": "Vegetables R-Z"}}
-{"text": {"food": "Steamed potatoes before peeling", "measure": "1 med.", "grams": "100", "calories": "80", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "0.40", "carbs": "19", "category": "Vegetables R-Z"}}
-{"text": {"food": "Potato chips", "measure": "10", "grams": "20", "calories": "110", "protein": "1", "fat": "7", "sat.fat": "4", "fiber": "t", "carbs": "10", "category": "Vegetables R-Z"}}
-{"text": {"food": "Radishes", "measure": "5 small", "grams": "50", "calories": "10", "protein": "t", "fat": "0", "sat.fat": "0", "fiber": "0.3", "carbs": "2", "category": "Vegetables R-Z"}}
-{"text": {"food": "Rutabagas", "measure": "4 cups", "grams": "100", "calories": "32", "protein": "t", "fat": "0", "sat.fat": "0", "fiber": "1.4", "carbs": "8", "category": "Vegetables R-Z"}}
-{"text": {"food": "Soybeans", "measure": "1 cup", "grams": "200", "calories": "260", "protein": "22", "fat": "11", "sat.fat": "0", "fiber": "3.2", "carbs": "20", "category": "Vegetables R-Z"}}
-{"text": {"food": "Spinach", "measure": "1 cup", "grams": "100", "calories": "26", "protein": "3", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "3", "category": "Vegetables R-Z"}}
-{"text": {"food": "Squash", "measure": "1 cup", "grams": "210", "calories": "35", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.6", "carbs": "8", "category": "Vegetables R-Z"}}
-{"text": {"food": "Winter, mashed", "measure": "1 cup", "grams": "200", "calories": "95", "protein": "4", "fat": "t", "sat.fat": "0", "fiber": "2.6", "carbs": "23", "category": "Vegetables R-Z"}}
-{"text": {"food": "Sweet potatoes", "measure": "1 med.", "grams": "110", "calories": "155", "protein": "2", "fat": "1", "sat.fat": "0", "fiber": "1", "carbs": "36", "category": "Vegetables R-Z"}}
-{"text": {"food": "Candied", "measure": "1 med.", "grams": "175", "calories": "235", "protein": "2", "fat": "6", "sat.fat": "5", "fiber": "1.5", "carbs": "80", "category": "Vegetables R-Z"}}
-{"text": {"food": "Tomatoes", "measure": "1 cup", "grams": "240", "calories": "50", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "9", "category": "Vegetables R-Z"}}
-{"text": {"food": "Raw, 2 by 2 1/2", "measure": "1 med.", "grams": "150", "calories": "30", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.6", "carbs": "6", "category": "Vegetables R-Z"}}
-{"text": {"food": "Tomato juice", "measure": "1 cup", "grams": "240", "calories": "50", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "0.6", "carbs": "10", "category": "Vegetables R-Z"}}
-{"text": {"food": "Tomato catsup", "measure": "1 T.", "grams": "17", "calories": "15", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "t", "carbs": "4", "category": "Vegetables R-Z"}}
-{"text": {"food": "Turnip greens", "measure": "1 cup", "grams": "145", "calories": "45", "protein": "4", "fat": "1", "sat.fat": "0", "fiber": "1.8", "carbs": "8", "category": "Vegetables R-Z"}}
-{"text": {"food": "Turnips, steamed", "measure": "1 cup", "grams": "155", "calories": "40", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1.8", "carbs": "9", "category": "Vegetables R-Z"}}
-{"text": {"food": "Watercress stems, raw", "measure": "1 cup", "grams": "50", "calories": "9", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.3", "carbs": "1", "category": "Fruits A-F"}}
-{"text": {"food": "Apple juice canned", "measure": "1 cup", "grams": "250", "calories": "125", "protein": "t", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "34", "category": "Fruits A-F"}}
-{"text": {"food": "Apple vinegar", "measure": "1/3 cup", "grams": "100", "calories": "14", "protein": "t", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "3", "category": "Fruits A-F"}}
-{"text": {"food": "Apples, raw", "measure": "1 med", "grams": "130", "calories": "70", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "18", "category": "Fruits A-F"}}
-{"text": {"food": "Stewed or canned", "measure": "1 cup", "grams": "240", "calories": "100", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "2", "carbs": "26", "category": "Fruits A-F"}}
-{"text": {"food": "Apricots", "measure": "1 cup", "grams": "250", "calories": "220", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "57", "category": "Fruits A-F"}}
-{"text": {"food": "Dried, uncooked", "measure": "1/2 cup", "grams": "75", "calories": "220", "protein": "4", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "50", "category": "Fruits A-F"}}
-{"text": {"food": "Fresh", "measure": "3 med.", "grams": "114", "calories": "55", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.70", "carbs": "14", "category": "Fruits A-F"}}
-{"text": {"food": "Nectar, or juice", "measure": "1 cup", "grams": "250", "calories": "140", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "2", "carbs": "36", "category": "Fruits A-F"}}
-{"text": {"food": "Avocado", "measure": "1/2 large", "grams": "108", "calories": "185", "protein": "2", "fat": "18", "sat.fat": "12", "fiber": "1.80", "carbs": "6", "category": "Fruits A-F"}}
-{"text": {"food": "Banana", "measure": "1 med.", "grams": "150", "calories": "85", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.9", "carbs": "23", "category": "Fruits A-F"}}
-{"text": {"food": "Blackberries", "measure": "1 cup", "grams": "144", "calories": "85", "protein": "2", "fat": "1", "sat.fat": "0", "fiber": "6.60", "carbs": "19", "category": "Fruits A-F"}}
-{"text": {"food": "Blueberries", "measure": "1 cup", "grams": "250", "calories": "245", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "2", "carbs": "65", "category": "Fruits A-F"}}
-{"text": {"food": "Cantaloupe", "measure": "1/2 med.", "grams": "380", "calories": "40", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "2.20", "carbs": "9", "category": "Fruits A-F"}}
-{"text": {"food": "Cherries", "measure": "1 cup", "grams": "257", "calories": "100", "protein": "2", "fat": "1", "sat.fat": "0", "fiber": "2", "carbs": "26", "category": "Fruits A-F"}}
-{"text": {"food": "Fresh, raw", "measure": "1 cup", "grams": "114", "calories": "65", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.8", "carbs": "15", "category": "Fruits A-F"}}
-{"text": {"food": "Cranberry sauce sweetened", "measure": "1 cup", "grams": "277", "calories": "530", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "1.2", "carbs": "142", "category": "Fruits A-F"}}
-{"text": {"food": "Dates", "measure": "1 cup", "grams": "178", "calories": "505", "protein": "4", "fat": "t", "sat.fat": "0", "fiber": "3.6", "carbs": "134", "category": "Fruits A-F"}}
-{"text": {"food": "Figs", "measure": "2", "grams": "42", "calories": "120", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "1.9", "carbs": "30", "category": "Fruits A-F"}}
-{"text": {"food": "Fresh, raw figs", "measure": "3 med.", "grams": "114", "calories": "90", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "22", "category": "Fruits A-F"}}
-{"text": {"food": "figs Canned with syrup ", "measure": "3", "grams": "115", "calories": "130", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "32", "category": "Fruits A-F"}}
-{"text": {"food": "Fruit cocktail, canned", "measure": "1 cup", "grams": "256", "calories": "195", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.5", "carbs": "50", "category": "Fruits A-F"}}
-{"text": {"food": "Grapefruit sections", "measure": "1 cup", "grams": "250", "calories": "170", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.5", "carbs": "44", "category": "Fruits G-P"}}
-{"text": {"food": "Grapefruit, fresh, 5\" diameter", "measure": "1/2", "grams": "285", "calories": "50", "protein": "1", "fat": "t", "sat.fat": "t", "fiber": "1", "carbs": "14", "category": "Fruits G-P"}}
-{"text": {"food": "Grapefruit juice", "measure": "1 cup", "grams": "250", "calories": "100", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "24", "category": "Fruits G-P"}}
-{"text": {"food": "Grapes", "measure": "1 cup", "grams": "153", "calories": "70", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.8", "carbs": "16", "category": "Fruits G-P"}}
-{"text": {"food": "European, as Muscat, Tokay", "measure": "1 cup", "grams": "160", "calories": "100", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.7", "carbs": "26", "category": "Fruits G-P"}}
-{"text": {"food": "Grape juice", "measure": "1 cup", "grams": "250", "calories": "160", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "t", "carbs": "42", "category": "Fruits G-P"}}
-{"text": {"food": "Lemon juice", "measure": "1/2 cup", "grams": "125", "calories": "30", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "t", "carbs": "10", "category": "Fruits G-P"}}
-{"text": {"food": "Lemonade concentratefrozen", "measure": "6-oz. can", "grams": "220", "calories": "430", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "t", "carbs": "112", "category": "Fruits G-P"}}
-{"text": {"food": "Limeade concentrate frozen", "measure": "6-oz. can", "grams": "218", "calories": "405", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "t", "carbs": "108", "category": "Fruits G-P"}}
-{"text": {"food": "Olives large", "measure": "10", "grams": "65", "calories": "72", "protein": "1", "fat": "10", "sat.fat": "9", "fiber": "0.8", "carbs": "3", "category": "Fruits G-P"}}
-{"text": {"food": "OlivesRipe", "measure": "10", "grams": "65", "calories": "105", "protein": "1", "fat": "13", "sat.fat": "12", "fiber": "1", "carbs": "1", "category": "Fruits G-P"}}
-{"text": {"food": "Oranges 3\" diameter", "measure": "1 med.", "grams": "180", "calories": "60", "protein": "2", "fat": "t", "sat.fat": "t", "fiber": "1", "carbs": "16", "category": "Fruits G-P"}}
-{"text": {"food": "Orange juice", "measure": "8 oz. or", "grams": "250", "calories": "112", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "0.2", "carbs": "25", "category": "Fruits G-P"}}
-{"text": {"food": "Frozen ", "measure": "6-oz. can", "grams": "210", "calories": "330", "protein": "2", "fat": "t", "sat.fat": "t", "fiber": "0.4", "carbs": "78", "category": "Fruits G-P"}}
-{"text": {"food": "Papaya", "measure": "1/2 med.", "grams": "200", "calories": "75", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1.8", "carbs": "18", "category": "Fruits G-P"}}
-{"text": {"food": "Peaches", "measure": "1 cup", "grams": "257", "calories": "200", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "52", "category": "Fruits G-P"}}
-{"text": {"food": "Fresh, raw", "measure": "1 med.", "grams": "114", "calories": "35", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.6", "carbs": "10", "category": "Fruits G-P"}}
-{"text": {"food": "Pears", "measure": "1 cup", "grams": "255", "calories": "195", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "2", "carbs": "50", "category": "Fruits G-P"}}
-{"text": {"food": "Raw, 3 by 2V", "measure": "1 med.", "grams": "182", "calories": "100", "protein": "1", "fat": "1", "sat.fat": "0", "fiber": "2", "carbs": "25", "category": "Fruits G-P"}}
-{"text": {"food": "Persimmons", "measure": "1 med.", "grams": "125", "calories": "75", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "2", "carbs": "20", "category": "Fruits G-P"}}
-{"text": {"food": "Pineapple", "measure": "1 large slice", "grams": "122", "calories": "95", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "0.4", "carbs": "26", "category": "Fruits G-P"}}
-{"text": {"food": "Pineapple Crushed", "measure": "1 cup", "grams": "260", "calories": "205", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.7", "carbs": "55", "category": "Fruits G-P"}}
-{"text": {"food": "Raw, diced", "measure": "1 cup", "grams": "140", "calories": "75", "protein": "1", "fat": "t'", "sat.fat": "0", "fiber": "0.6", "carbs": "19", "category": "Fruits G-P"}}
-{"text": {"food": "Pineapple juice", "measure": "1 cup", "grams": "250", "calories": "120", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.2", "carbs": "32", "category": "Fruits G-P"}}
-{"text": {"food": "Plums", "measure": "1 cup", "grams": "256", "calories": "185", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.7", "carbs": "50", "category": "Fruits G-P"}}
-{"text": {"food": "Raw, 2\" diameter", "measure": "1", "grams": "60", "calories": "30", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "0.2", "carbs": "7", "category": "Fruits G-P"}}
-{"text": {"food": "Prunes", "measure": "1 cup", "grams": "270", "calories": "300", "protein": "3", "fat": "1", "sat.fat": "0", "fiber": "0.8", "carbs": "81", "category": "Fruits G-P"}}
-{"text": {"food": "Prune juice", "measure": "1 cup", "grams": "240", "calories": "170", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.7", "carbs": "45", "category": "Fruits G-P"}}
-{"text": {"food": "Raisins", "measure": "1/2 cup", "grams": "88", "calories": "230", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "0.7", "carbs": "82", "category": "Fruits R-Z"}}
-{"text": {"food": "Raspberries", "measure": "1/2 cup", "grams": "100", "calories": "100", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "2", "carbs": "25", "category": "Fruits R-Z"}}
-{"text": {"food": "Raw, red", "measure": "3/4 cup", "grams": "100", "calories": "57", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "5", "carbs": "14", "category": "Fruits R-Z"}}
-{"text": {"food": "Rhubarb sweetened", "measure": "1 cup", "grams": "270", "calories": "385", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1.9", "carbs": "98", "category": "Fruits R-Z"}}
-{"text": {"food": "Strawberries", "measure": "1 cup", "grams": "227", "calories": "242", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1.3", "carbs": "60", "category": "Fruits R-Z"}}
-{"text": {"food": "Raw", "measure": "1 cup", "grams": "149", "calories": "54", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "1.9", "carbs": "12", "category": "Fruits R-Z"}}
-{"text": {"food": "Tangerines", "measure": "I med.", "grams": "114", "calories": "40", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "1", "carbs": "10", "category": "Fruits R-Z"}}
-{"text": {"food": "Watermelon", "measure": "1 wedge", "grams": "925", "calories": "120", "protein": "2", "fat": "1", "sat.fat": "0", "fiber": "3.6", "carbs": "29", "category": "Fruits R-Z"}}
-{"text": {"food": "Biscuits", "measure": "1", "grams": "38", "calories": "130", "protein": "3", "fat": "4", "sat.fat": "3", "fiber": "t", "carbs": "18", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Bran flakes", "measure": "1 cup", "grams": "25", "calories": "117", "protein": "3", "fat": "t", "sat.fat": "0", "fiber": "0.10", "carbs": "32", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Bread, cracked wheat", "measure": "1 slice", "grams": "23", "calories": "60", "protein": "2", "fat": "1", "sat.fat": "1", "fiber": "0.10", "carbs": "12", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Rye", "measure": "1 slice", "grams": "23", "calories": "55", "protein": "2", "fat": "1", "sat.fat": "1", "fiber": "0.10", "carbs": "12", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "White, 20 slices, or", "measure": "1-lb. loaf", "grams": "454", "calories": "1,225", "protein": "39", "fat": "15", "sat.fat": "12", "fiber": "9.00", "carbs": "229", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Whole-wheat", "measure": "1-lb. loaf", "grams": "454", "calories": "1,100", "protein": "48", "fat": "14", "sat.fat": "10", "fiber": "67.50", "carbs": "216", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Whole-wheat", "measure": "1 slice", "grams": "23", "calories": "55", "protein": "2", "fat": "1", "sat.fat": "0", "fiber": "0.31", "carbs": "11", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Corn bread ground meal", "measure": "1 serving", "grams": "50", "calories": "100", "protein": "3", "fat": "4", "sat.fat": "2", "fiber": "0.30", "carbs": "15", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Cornflakes", "measure": "1 cup", "grams": "25", "calories": "110", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "0.1", "carbs": "25", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Corn grits cooked", "measure": "1 cup", "grams": "242", "calories": "120", "protein": "8", "fat": "t", "sat.fat": "0", "fiber": "0.2", "carbs": "27", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Corn meal", "measure": "1 cup", "grams": "118", "calories": "360", "protein": "9", "fat": "4", "sat.fat": "2", "fiber": "1.6", "carbs": "74", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Crackers", "measure": "2 med.", "grams": "14", "calories": "55", "protein": "1", "fat": "1", "sat.fat": "0", "fiber": "t", "carbs": "10", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Soda, 2 1/2 square", "measure": "2", "grams": "11", "calories": "45", "protein": "1", "fat": "1", "sat.fat": "0", "fiber": "t", "carbs": "8", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Farina", "measure": "1 cup", "grams": "238", "calories": "105", "protein": "3", "fat": "t", "sat.fat": "0", "fiber": "8", "carbs": "22", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Flour", "measure": "1 cup", "grams": "110", "calories": "460", "protein": "39", "fat": "22", "sat.fat": "0", "fiber": "2.9", "carbs": "33", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Wheat (all purpose)", "measure": "1 cup", "grams": "110", "calories": "400", "protein": "12", "fat": "1", "sat.fat": "0", "fiber": "0.3", "carbs": "84", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Wheat (whole)", "measure": "1 cup", "grams": "120", "calories": "390", "protein": "13", "fat": "2", "sat.fat": "0", "fiber": "2.8", "carbs": "79", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Macaroni", "measure": "1 cup", "grams": "140", "calories": "155", "protein": "5", "fat": "1", "sat.fat": "0", "fiber": "0.1", "carbs": "32", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Baked with cheese", "measure": "1 cup", "grams": "220", "calories": "475", "protein": "18", "fat": "25", "sat.fat": "24", "fiber": "t", "carbs": "44", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Muffins", "measure": "1", "grams": "48", "calories": "135", "protein": "4", "fat": "5", "sat.fat": "4", "fiber": "t", "carbs": "19", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Noodles", "measure": "1 cup", "grams": "160", "calories": "200", "protein": "7", "fat": "2", "sat.fat": "2", "fiber": "0.1", "carbs": "37", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Oatmeal", "measure": "1 cup", "grams": "236", "calories": "150", "protein": "5", "fat": "3", "sat.fat": "2", "fiber": "4.6", "carbs": "26", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Pancakes 4\" diam.", "measure": "4", "grams": "108", "calories": "250", "protein": "7", "fat": "9", "sat.fat": "0", "fiber": "0.1", "carbs": "28", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Wheat, pancakes 4\" diam.", "measure": "4", "grams": "108", "calories": "250", "protein": "7", "fat": "9", "sat.fat": "0", "fiber": "0.1", "carbs": "28", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Pizza 14\" diam.", "measure": "1 section", "grams": "75", "calories": "180", "protein": "8", "fat": "6", "sat.fat": "5", "fiber": "t", "carbs": "23", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Popcorn salted", "measure": "2 cups", "grams": "28", "calories": "152", "protein": "3", "fat": "7", "sat.fat": "2", "fiber": "0.5", "carbs": "20", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Puffed rice", "measure": "1 cup", "grams": "14", "calories": "55", "protein": "t", "fat": "t", "sat.fat": "0", "fiber": "t", "carbs": "12", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Puffed wheat presweetened", "measure": "1 cup", "grams": "28", "calories": "105", "protein": "1", "fat": "t", "sat.fat": "0", "fiber": "0.6", "carbs": "26", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Rice", "measure": "1 cup", "grams": "208", "calories": "748", "protein": "15", "fat": "3", "sat.fat": "0", "fiber": "1.2", "carbs": "154", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Converted", "measure": "1 cup", "grams": "187", "calories": "677", "protein": "14", "fat": "t", "sat.fat": "0", "fiber": "0.4", "carbs": "142", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "White", "measure": "1 cup", "grams": "191", "calories": "692", "protein": "14", "fat": "t", "sat.fat": "0", "fiber": "0.3", "carbs": "150", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Rice flakes", "measure": "1 cup", "grams": "30", "calories": "115", "protein": "2", "fat": "t", "sat.fat": "0", "fiber": "0.1", "carbs": "26", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Rice polish", "measure": "1/2 cup", "grams": "50", "calories": "132", "protein": "6", "fat": "6", "sat.fat": "0", "fiber": "1.2", "carbs": "28", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Rolls", "measure": "1 large", "grams": "50", "calories": "411", "protein": "3", "fat": "12", "sat.fat": "11", "fiber": "0.1", "carbs": "23", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "of refined flour", "measure": "1", "grams": "38", "calories": "115", "protein": "3", "fat": "2", "sat.fat": "2", "fiber": "t", "carbs": "20", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "whole-wheat", "measure": "1", "grams": "40", "calories": "102", "protein": "4", "fat": "1", "sat.fat": "0", "fiber": "0.1", "carbs": "20", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Spaghetti with meat sauce", "measure": "1 cup", "grams": "250", "calories": "285", "protein": "13", "fat": "10", "sat.fat": "6", "fiber": "0.50", "carbs": "35", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "with tomatoes and cheese", "measure": "1 cup", "grams": "250", "calories": "210", "protein": "6", "fat": "5", "sat.fat": "3", "fiber": "0.50", "carbs": "36", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Spanish rice", "measure": "1 cup", "grams": "250", "calories": "217", "protein": "4", "fat": "4", "sat.fat": "0", "fiber": "1.20", "carbs": "40", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Shredded wheat biscuit", "measure": "1", "grams": "28", "calories": "100", "protein": "3", "fat": "1", "sat.fat": "0", "fiber": "0.70", "carbs": "23", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Waffles", "measure": "1", "grams": "75", "calories": "240", "protein": "8", "fat": "9", "sat.fat": "1", "fiber": "0.10", "carbs": "30", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Wheat germ", "measure": "1 cup", "grams": "68", "calories": "245", "protein": "17", "fat": "7", "sat.fat": "3", "fiber": "2.50", "carbs": "34", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Wheat-germ cereal toasted", "measure": "1 cup", "grams": "65", "calories": "260", "protein": "20", "fat": "7", "sat.fat": "3", "fiber": "2.50", "carbs": "36", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Wheat meal cereal unrefined", "measure": "3/4 cup", "grams": "30", "calories": "103", "protein": "4", "fat": "1", "sat.fat": "0", "fiber": "0.70", "carbs": "25", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Wheat, cooked", "measure": "3/4 cup", "grams": "200", "calories": "275", "protein": "12", "fat": "1", "sat.fat": "0", "fiber": "4.40", "carbs": "35", "category": "Breads, cereals, fastfood,grains"}}
-{"text": {"food": "Bean soups", "measure": "1 cup", "grams": "250", "calories": "190", "protein": "8", "fat": "5", "sat.fat": "4", "fiber": "0.60", "carbs": "30", "category": "Soups"}}
-{"text": {"food": "Beef soup", "measure": "1 cup", "grams": "250", "calories": "100", "protein": "6", "fat": "4", "sat.fat": "4", "fiber": "0.50", "carbs": "11", "category": "Soups"}}
-{"text": {"food": "Bouillon", "measure": "1 cup", "grams": "240", "calories": "24", "protein": "5", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Soups"}}
-{"text": {"food": "chicken soup", "measure": "1 cup", "grams": "250", "calories": "75", "protein": "4", "fat": "2", "sat.fat": "2", "fiber": "0", "carbs": "10", "category": "Soups"}}
-{"text": {"food": "Clam chowder", "measure": "1 cup", "grams": "255", "calories": "85", "protein": "5", "fat": "2", "sat.fat": "8", "fiber": "0.50", "carbs": "12", "category": "Soups"}}
-{"text": {"food": "Cream soups", "measure": "1 cup", "grams": "255", "calories": "200", "protein": "7", "fat": "12", "sat.fat": "11", "fiber": "1.20", "carbs": "18", "category": "Soups"}}
-{"text": {"food": "Noodle", "measure": "1 cup", "grams": "250", "calories": "115", "protein": "6", "fat": "4", "sat.fat": "3", "fiber": "0.20", "carbs": "13", "category": "Soups"}}
-{"text": {"food": "Split-pea soup", "measure": "1 cup", "grams": "250", "calories": "147", "protein": "8", "fat": "3", "sat.fat": "3", "fiber": "0.50", "carbs": "25", "category": "Soups"}}
-{"text": {"food": "Tomato soup", "measure": "1 cup", "grams": "245", "calories": "175", "protein": "6", "fat": "7", "sat.fat": "6", "fiber": "0.50", "carbs": "22", "category": "Soups"}}
-{"text": {"food": "Vegetable", "measure": "1 cup", "grams": "250", "calories": "80", "protein": "4", "fat": "2", "sat.fat": "2", "fiber": "0", "carbs": "14", "category": "Soups"}}
-{"text": {"food": "Apple betty", "measure": "1 serving", "grams": "100", "calories": "150", "protein": "1", "fat": "4", "sat.fat": "0", "fiber": "0.5", "carbs": "29", "category": "Desserts, sweets"}}
-{"text": {"food": "Bread pudding", "measure": "3/4 cup", "grams": "200", "calories": "374", "protein": "11", "fat": "12", "sat.fat": "11", "fiber": "0.20", "carbs": "56", "category": "Desserts, sweets"}}
-{"text": {"food": "Cakes", "measure": "1 slice", "grams": "40", "calories": "110", "protein": "3", "fat": "t", "sat.fat": "0", "fiber": "0", "carbs": "23", "category": "Desserts, sweets"}}
-{"text": {"food": "Chocolate fudge", "measure": "1 slice", "grams": "120", "calories": "420", "protein": "5", "fat": "14", "sat.fat": "12", "fiber": "0.3", "carbs": "70", "category": "Desserts, sweets"}}
-{"text": {"food": "Cupcake", "measure": "1", "grams": "50", "calories": "160", "protein": "3", "fat": "3", "sat.fat": "2", "fiber": "t", "carbs": "31", "category": "Desserts, sweets"}}
-{"text": {"food": "Fruit cake", "measure": "1 slice", "grams": "30", "calories": "105", "protein": "2", "fat": "4", "sat.fat": "3", "fiber": "0.2", "carbs": "17", "category": "Desserts, sweets"}}
-{"text": {"food": "Gingerbread", "measure": "1 slice", "grams": "55", "calories": "180", "protein": "2", "fat": "7", "sat.fat": "6", "fiber": "t", "carbs": "28", "category": "Desserts, sweets"}}
-{"text": {"food": "Plain, with no icing", "measure": "1 slice", "grams": "55", "calories": "180", "protein": "4", "fat": "5", "sat.fat": "4", "fiber": "t", "carbs": "31", "category": "Desserts, sweets"}}
-{"text": {"food": "Sponge cake", "measure": "1 slice", "grams": "40", "calories": "115", "protein": "3", "fat": "2", "sat.fat": "2", "fiber": "0", "carbs": "22", "category": "Desserts, sweets"}}
-{"text": {"food": "Candy", "measure": "5", "grams": "25", "calories": "104", "protein": "t", "fat": "3", "sat.fat": "3", "fiber": "0", "carbs": "19", "category": "Desserts, sweets"}}
-{"text": {"food": "Chocolate creams", "measure": "2", "grams": "30", "calories": "130", "protein": "t", "fat": "4", "sat.fat": "4", "fiber": "0", "carbs": "24", "category": "Desserts, sweets"}}
-{"text": {"food": "Fudge", "measure": "2 pieces", "grams": "90", "calories": "370", "protein": "t", "fat": "12", "sat.fat": "11", "fiber": "0.1", "carbs": "80", "category": "Desserts, sweets"}}
-{"text": {"food": "Hard candies", "measure": "1 oz.", "grams": "28", "calories": "90", "protein": "t", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "28", "category": "Desserts, sweets"}}
-{"text": {"food": "Marshmallows", "measure": "5", "grams": "30", "calories": "98", "protein": "1", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "23", "category": "Desserts, sweets"}}
-{"text": {"food": "Milk chocolate", "measure": "2-oz. bar", "grams": "56", "calories": "290", "protein": "2", "fat": "6", "sat.fat": "6", "fiber": "0.2", "carbs": "44", "category": "Desserts, sweets"}}
-{"text": {"food": "Chocolate syrup", "measure": "2 T.", "grams": "40", "calories": "80", "protein": "t", "fat": "t", "sat.fat": "t", "fiber": "0", "carbs": "22", "category": "Desserts, sweets"}}
-{"text": {"food": "Doughnuts", "measure": "1", "grams": "33", "calories": "135", "protein": "2", "fat": "7", "sat.fat": "4", "fiber": "t", "carbs": "17", "category": "Desserts, sweets"}}
-{"text": {"food": "Gelatin, made with water", "measure": "1 cup", "grams": "239", "calories": "155", "protein": "4", "fat": "t", "sat.fat": "t", "fiber": "0", "carbs": "36", "category": "Desserts, sweets"}}
-{"text": {"food": "Honey", "measure": "2 T.", "grams": "42", "calories": "120", "protein": "t", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "30", "category": "Jams, Jellies"}}
-{"text": {"food": "Ice cream", "measure": "2 cups", "grams": "300", "calories": "250", "protein": "0", "fat": "0", "sat.fat": "12", "fiber": "10", "carbs": "0", "category": "Desserts, sweets"}}
-{"text": {"food": "Ices", "measure": "1 cup", "grams": "150", "calories": "117", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "48", "category": "Desserts, sweets"}}
-{"text": {"food": "preserves", "measure": "1 T.", "grams": "20", "calories": "55", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "t", "carbs": "14", "category": "Jams, Jellies"}}
-{"text": {"food": "Jellies", "measure": "1 T.", "grams": "20", "calories": "50", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "13", "category": "Jams, Jellies"}}
-{"text": {"food": "Molasses", "measure": "1 T.", "grams": "20", "calories": "45", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "8", "carbs": "11", "category": "Jams, Jellies"}}
-{"text": {"food": "Cane Syrup", "measure": "1 T.", "grams": "20", "calories": "50", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "13", "category": "Jams, Jellies"}}
-{"text": {"food": "9\" diam. pie", "measure": "1 slice", "grams": "135", "calories": "330", "protein": "3", "fat": "13", "sat.fat": "11", "fiber": "0.1", "carbs": "53", "category": "Desserts, sweets"}}
-{"text": {"food": "Cherry Pie", "measure": "1 slice", "grams": "135", "calories": "340", "protein": "3", "fat": "13", "sat.fat": "11", "fiber": "0.1", "carbs": "55", "category": "Desserts, sweets"}}
-{"text": {"food": "Custard", "measure": "1 slice", "grams": "130", "calories": "265", "protein": "7", "fat": "11", "sat.fat": "10", "fiber": "0", "carbs": "34", "category": "Desserts, sweets"}}
-{"text": {"food": "Lemon meringue", "measure": "1 slice", "grams": "120", "calories": "300", "protein": "4", "fat": "12", "sat.fat": "10", "fiber": "0.1", "carbs": "45", "category": "Desserts, sweets"}}
-{"text": {"food": "Mince", "measure": "1 slice", "grams": "135", "calories": "340", "protein": "3", "fat": "9", "sat.fat": "8", "fiber": "0.70", "carbs": "62", "category": "Desserts, sweets"}}
-{"text": {"food": "Pumpkin Pie", "measure": "1 slice", "grams": "130", "calories": "265", "protein": "5", "fat": "12", "sat.fat": "11", "fiber": "8", "carbs": "34", "category": "Desserts, sweets"}}
-{"text": {"food": "Puddings Sugar", "measure": "1 cup", "grams": "200", "calories": "770", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "199", "category": "Desserts, sweets"}}
-{"text": {"food": "3 teaspoons sugar", "measure": "1 T.", "grams": "12", "calories": "50", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "12", "category": "Desserts, sweets"}}
-{"text": {"food": "Brown, firm-packed, dark sugar", "measure": "1 cup", "grams": "220", "calories": "815", "protein": "0", "fat": "t", "sat.fat": "0", "fiber": "0", "carbs": "210", "category": "Jams, Jellies"}}
-{"text": {"food": "Syrup", "measure": "2 T.", "grams": "40", "calories": "100", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "25", "category": "Jams, Jellies"}}
-{"text": {"food": "table blends sugar", "measure": "2 T.", "grams": "40", "calories": "110", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "29", "category": "Jams, Jellies"}}
-{"text": {"food": "Tapioca cream pudding", "measure": "1 cup", "grams": "250", "calories": "335", "protein": "10", "fat": "10", "sat.fat": "9", "fiber": "0", "carbs": "42", "category": "Desserts, sweets"}}
-{"text": {"food": "Almonds", "measure": "1/2 cup", "grams": "70", "calories": "425", "protein": "13", "fat": "38", "sat.fat": "28", "fiber": "1.8", "carbs": "13", "category": "Seeds and Nuts"}}
-{"text": {"food": "roasted and salted", "measure": "1/2 cup", "grams": "70", "calories": "439", "protein": "13", "fat": "40", "sat.fat": "31", "fiber": "1.8", "carbs": "13", "category": "Seeds and Nuts"}}
-{"text": {"food": "Brazil nuts", "measure": "1/2 cup", "grams": "70", "calories": "457", "protein": "10", "fat": "47", "sat.fat": "31", "fiber": "2", "carbs": "7", "category": "Seeds and Nuts"}}
-{"text": {"food": "Cashews", "measure": "1/2 cup", "grams": "70", "calories": "392", "protein": "12", "fat": "32", "sat.fat": "28", "fiber": "0.9", "carbs": "20", "category": "Seeds and Nuts"}}
-{"text": {"food": "coconut sweetened", "measure": "1/2 cup", "grams": "50", "calories": "274", "protein": "1", "fat": "20", "sat.fat": "19", "fiber": "2", "carbs": "26", "category": "Seeds and Nuts"}}
-{"text": {"food": "Peanut butter", "measure": "1/3 cup", "grams": "50", "calories": "300", "protein": "12", "fat": "25", "sat.fat": "17", "fiber": "0.9", "carbs": "9", "category": "Seeds and Nuts"}}
-{"text": {"food": "Peanut butter, natural", "measure": "1/3 cup", "grams": "50", "calories": "284", "protein": "13", "fat": "24", "sat.fat": "10", "fiber": "0.9", "carbs": "8", "category": "Seeds and Nuts"}}
-{"text": {"food": "Peanuts", "measure": "1/3 cup", "grams": "50", "calories": "290", "protein": "13", "fat": "25", "sat.fat": "16", "fiber": "1.2", "carbs": "9", "category": "Seeds and Nuts"}}
-{"text": {"food": "Pecans", "measure": "1/2 cup", "grams": "52", "calories": "343", "protein": "5", "fat": "35", "sat.fat": "25", "fiber": "1.1", "carbs": "7", "category": "Seeds and Nuts"}}
-{"text": {"food": "Sesame seeds", "measure": "1/2 cup", "grams": "50", "calories": "280", "protein": "9", "fat": "24", "sat.fat": "13", "fiber": "3.1", "carbs": "10", "category": "Seeds and Nuts"}}
-{"text": {"food": "Sunflower seeds", "measure": "1/2 cup", "grams": "50", "calories": "280", "protein": "12", "fat": "26", "sat.fat": "7", "fiber": "1.9", "carbs": "10", "category": "Seeds and Nuts"}}
-{"text": {"food": "Walnuts", "measure": "1/2 cup", "grams": "50", "calories": "325", "protein": "7", "fat": "32", "sat.fat": "7", "fiber": "1", "carbs": "8", "category": "Seeds and Nuts"}}
-{"text": {"food": "Beer", "measure": "2 cups", "grams": "480", "calories": "228", "protein": "t", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "8", "category": "Drinks,Alcohol, Beverages"}}
-{"text": {"food": "Gin", "measure": "1 oz.", "grams": "28", "calories": "70", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "t", "category": "Drinks,Alcohol, Beverages"}}
-{"text": {"food": "Wines", "measure": "1/2 cup", "grams": "120", "calories": "164", "protein": "t", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "9", "category": "Drinks,Alcohol, Beverages"}}
-{"text": {"food": "Table (12.2% alcohol)", "measure": "1/2 cup", "grams": "120", "calories": "100", "protein": "t", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "5", "category": "Drinks,Alcohol, Beverages"}}
-{"text": {"food": "Carbonated drinks Artificially sweetened", "measure": "12 oz.", "grams": "346", "calories": "0", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Drinks,Alcohol, Beverages"}}
-{"text": {"food": "Club soda", "measure": "12 oz.", "grams": "346", "calories": "0", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "0", "category": "Drinks,Alcohol, Beverages"}}
-{"text": {"food": "Cola drinks", "measure": "12 oz.", "grams": "346", "calories": "137", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "38", "category": "Drinks,Alcohol, Beverages"}}
-{"text": {"food": "Fruit-flavored soda", "measure": "12 oz.", "grams": "346", "calories": "161", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "42", "category": "Drinks,Alcohol, Beverages"}}
-{"text": {"food": "Ginger ale", "measure": "12 oz.", "grams": "346", "calories": "105", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "28", "category": "Drinks,Alcohol, Beverages"}}
-{"text": {"food": "Root beer", "measure": "12 oz.", "grams": "346", "calories": "140", "protein": "0", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "35", "category": "Drinks,Alcohol, Beverages"}}
-{"text": {"food": "Coffee", "measure": "1 cup", "grams": "230", "calories": "3", "protein": "t", "fat": "0", "sat.fat": "0", "fiber": "0", "carbs": "1", "category": "Drinks,Alcohol, Beverages"}}
-{"text": {"food": "Tea", "measure": "1 cup", "grams": "230", "calories": "4", "protein": "0", "fat": "t", "sat.fat": "0", "fiber": "0", "carbs": "1", "category": "Drinks,Alcohol, Beverages"}}
+{"text": "food: \"Cows' milk\", measure: \"1 qt.\", grams: \"976\", calories: \"660\", protein: \"32\", fat: \"40\", sat.fat: \"36\", fiber: \"0\", carbs: \"48\", category: \"Dairy products\""}
+{"text": "food: \"Milk skim\", measure: \"1 qt.\", grams: \"984\", calories: \"360\", protein: \"36\", fat: \"t\", sat.fat: \"t\", fiber: \"0\", carbs: \"52\", category: \"Dairy products\""}
+{"text": "food: \"Buttermilk\", measure: \"1 cup\", grams: \"246\", calories: \"127\", protein: \"9\", fat: \"5\", sat.fat: \"4\", fiber: \"0\", carbs: \"13\", category: \"Dairy products\""}
+{"text": "food: \"Evaporated, undiluted\", measure: \"1 cup\", grams: \"252\", calories: \"345\", protein: \"16\", fat: \"20\", sat.fat: \"18\", fiber: \"0\", carbs: \"24\", category: \"Dairy products\""}
+{"text": "food: \"Fortified milk\", measure: \"6 cups\", grams: \"1,419\", calories: \"1,373\", protein: \"89\", fat: \"42\", sat.fat: \"23\", fiber: \"1.4\", carbs: \"119\", category: \"Dairy products\""}
+{"text": "food: \"Powdered milk\", measure: \"1 cup\", grams: \"103\", calories: \"515\", protein: \"27\", fat: \"28\", sat.fat: \"24\", fiber: \"0\", carbs: \"39\", category: \"Dairy products\""}
+{"text": "food: \"skim, instant\", measure: \"1 1/3 cups\", grams: \"85\", calories: \"290\", protein: \"30\", fat: \"t\", sat.fat: \"t\", fiber: \"0\", carbs: \"42\", category: \"Dairy products\""}
+{"text": "food: \"skim, non-instant\", measure: \"2/3 cup\", grams: \"85\", calories: \"290\", protein: \"30\", fat: \"t\", sat.fat: \"t\", fiber: \"1\", carbs: \"42\", category: \"Dairy products\""}
+{"text": "food: \"Goats' milk\", measure: \"1 cup\", grams: \"244\", calories: \"165\", protein: \"8\", fat: \"10\", sat.fat: \"8\", fiber: \"0\", carbs: \"11\", category: \"Dairy products\""}
+{"text": "food: \"(1/2 cup ice cream)\", measure: \"2 cups\", grams: \"540\", calories: \"690\", protein: \"24\", fat: \"24\", sat.fat: \"22\", fiber: \"0\", carbs: \"70\", category: \"Dairy products\""}
+{"text": "food: \"Cocoa\", measure: \"1 cup\", grams: \"252\", calories: \"235\", protein: \"8\", fat: \"11\", sat.fat: \"10\", fiber: \"0\", carbs: \"26\", category: \"Dairy products\""}
+{"text": "food: \"skim. milk\", measure: \"1 cup\", grams: \"250\", calories: \"128\", protein: \"18\", fat: \"4\", sat.fat: \"3\", fiber: \"1\", carbs: \"13\", category: \"Dairy products\""}
+{"text": "food: \"(cornstarch)\", measure: \"1 cup\", grams: \"248\", calories: \"275\", protein: \"9\", fat: \"10\", sat.fat: \"9\", fiber: \"0\", carbs: \"40\", category: \"Dairy products\""}
+{"text": "food: \"Custard\", measure: \"1 cup\", grams: \"248\", calories: \"285\", protein: \"13\", fat: \"14\", sat.fat: \"11\", fiber: \"0\", carbs: \"28\", category: \"Dairy products\""}
+{"text": "food: \"Ice cream\", measure: \"1 cup\", grams: \"188\", calories: \"300\", protein: \"6\", fat: \"18\", sat.fat: \"16\", fiber: \"0\", carbs: \"29\", category: \"Dairy products\""}
+{"text": "food: \"Ice milk\", measure: \"1 cup\", grams: \"190\", calories: \"275\", protein: \"9\", fat: \"10\", sat.fat: \"9\", fiber: \"0\", carbs: \"32\", category: \"Dairy products\""}
+{"text": "food: \"Cream or half-and-half\", measure: \"1/2 cup\", grams: \"120\", calories: \"170\", protein: \"4\", fat: \"15\", sat.fat: \"13\", fiber: \"0\", carbs: \"5\", category: \"Dairy products\""}
+{"text": "food: \"or whipping\", measure: \"1/2 cup\", grams: \"119\", calories: \"430\", protein: \"2\", fat: \"44\", sat.fat: \"27\", fiber: \"1\", carbs: \"3\", category: \"Dairy products\""}
+{"text": "food: \"Cheese\", measure: \"1 cup\", grams: \"225\", calories: \"240\", protein: \"30\", fat: \"11\", sat.fat: \"10\", fiber: \"0\", carbs: \"6\", category: \"Dairy products\""}
+{"text": "food: \"uncreamed\", measure: \"1 cup\", grams: \"225\", calories: \"195\", protein: \"38\", fat: \"t\", sat.fat: \"t\", fiber: \"0\", carbs: \"6\", category: \"Dairy products\""}
+{"text": "food: \"Cheddar\", measure: \"1-in. cube\", grams: \"17\", calories: \"70\", protein: \"4\", fat: \"6\", sat.fat: \"5\", fiber: \"0\", carbs: \"t\", category: \"Dairy products\""}
+{"text": "food: \"Cheddar, grated cup\", measure: \"1/2 cup\", grams: \"56\", calories: \"226\", protein: \"14\", fat: \"19\", sat.fat: \"17\", fiber: \"0\", carbs: \"1\", category: \"Dairy products\""}
+{"text": "food: \"Cream cheese\", measure: \"1 oz.\", grams: \"28\", calories: \"105\", protein: \"2\", fat: \"11\", sat.fat: \"10\", fiber: \"0\", carbs: \"1\", category: \"Dairy products\""}
+{"text": "food: \"Processed cheese\", measure: \"1 oz.\", grams: \"28\", calories: \"105\", protein: \"7\", fat: \"9\", sat.fat: \"8\", fiber: \"0\", carbs: \"t\", category: \"Dairy products\""}
+{"text": "food: \"Roquefort type\", measure: \"1 oz.\", grams: \"28\", calories: \"105\", protein: \"6\", fat: \"9\", sat.fat: \"8\", fiber: \"0\", carbs: \"t\", category: \"Dairy products\""}
+{"text": "food: \"Swiss\", measure: \"1 oz.\", grams: \"28\", calories: \"105\", protein: \"7\", fat: \"8\", sat.fat: \"7\", fiber: \"0\", carbs: \"t\", category: \"Dairy products\""}
+{"text": "food: \"Eggs raw\", measure: \"2\", grams: \"100\", calories: \"150\", protein: \"12\", fat: \"12\", sat.fat: \"10\", fiber: \"0\", carbs: \"t\", category: \"Dairy products\""}
+{"text": "food: \"Eggs Scrambled or fried\", measure: \"2\", grams: \"128\", calories: \"220\", protein: \"13\", fat: \"16\", sat.fat: \"14\", fiber: \"0\", carbs: \"1\", category: \"Dairy products\""}
+{"text": "food: \"Yolks\", measure: \"2\", grams: \"34\", calories: \"120\", protein: \"6\", fat: \"10\", sat.fat: \"8\", fiber: \"0\", carbs: \"t\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Butter\", measure: \"1T.\", grams: \"14\", calories: \"100\", protein: \"t\", fat: \"11\", sat.fat: \"10\", fiber: \"0\", carbs: \"t\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Butter\", measure: \"1/2 cup\", grams: \"112\", calories: \"113\", protein: \"114\", fat: \"115\", sat.fat: \"116\", fiber: \"117\", carbs: \"118\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Butter\", measure: \"1/4\u00a0lb.\", grams: \"112\", calories: \"113\", protein: \"114\", fat: \"115\", sat.fat: \"116\", fiber: \"117\", carbs: \"118\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Hydrogenated cooking fat\", measure: \"1/2 cup\", grams: \"100\", calories: \"665\", protein: \"0\", fat: \"100\", sat.fat: \"88\", fiber: \"0\", carbs: \"0\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Lard\", measure: \"1/2 cup\", grams: \"110\", calories: \"992\", protein: \"0\", fat: \"110\", sat.fat: \"92\", fiber: \"0\", carbs: \"0\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Margarine\", measure: \"1/2 cup\", grams: \"112\", calories: \"806\", protein: \"t\", fat: \"91\", sat.fat: \"76\", fiber: \"0\", carbs: \"t\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Margarine, 2 pat or\", measure: \"1 T.\", grams: \"14\", calories: \"100\", protein: \"t\", fat: \"11\", sat.fat: \"9\", fiber: \"0\", carbs: \"t\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Mayonnaise\", measure: \"1 T.\", grams: \"15\", calories: \"110\", protein: \"t\", fat: \"12\", sat.fat: \"5\", fiber: \"0\", carbs: \"t\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Corn oil\", measure: \"1 T.\", grams: \"14\", calories: \"125\", protein: \"0\", fat: \"14\", sat.fat: \"5\", fiber: \"0\", carbs: \"0\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Olive oil\", measure: \"1T.\", grams: \"14\", calories: \"125\", protein: \"0\", fat: \"14\", sat.fat: \"3\", fiber: \"0\", carbs: \"0\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Safflower seed oil\", measure: \"1 T.\", grams: \"14\", calories: \"125\", protein: \"0\", fat: \"14\", sat.fat: \"3\", fiber: \"0\", carbs: \"0\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"French dressing\", measure: \"1 T.\", grams: \"15\", calories: \"60\", protein: \"t\", fat: \"6\", sat.fat: \"2\", fiber: \"0\", carbs: \"2\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Thousand Island sauce\", measure: \"1 T.\", grams: \"15\", calories: \"75\", protein: \"t\", fat: \"8\", sat.fat: \"3\", fiber: \"0\", carbs: \"1\", category: \"Fats, Oils, Shortenings\""}
+{"text": "food: \"Salt pork\", measure: \"2 oz.\", grams: \"60\", calories: \"470\", protein: \"3\", fat: \"55\", sat.fat: \"nan\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Bacon\", measure: \"2 slices\", grams: \"16\", calories: \"95\", protein: \"4\", fat: \"8\", sat.fat: \"7\", fiber: \"0\", carbs: \"1\", category: \"Meat, Poultry\""}
+{"text": "food: \"Beef\", measure: \"3 oz.\", grams: \"85\", calories: \"245\", protein: \"23\", fat: \"16\", sat.fat: \"15\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Hamburger\", measure: \"3 oz.\", grams: \"85\", calories: \"245\", protein: \"21\", fat: \"17\", sat.fat: \"15\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Ground lean\", measure: \"3 oz.\", grams: \"85\", calories: \"185\", protein: \"24\", fat: \"10\", sat.fat: \"9\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Roast beef\", measure: \"3 oz.\", grams: \"85\", calories: \"390\", protein: \"16\", fat: \"36\", sat.fat: \"35\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Steak\", measure: \"3 oz.\", grams: \"85\", calories: \"330\", protein: \"20\", fat: \"27\", sat.fat: \"25\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Steak, lean, as round\", measure: \"3 oz.\", grams: \"85\", calories: \"220\", protein: \"24\", fat: \"12\", sat.fat: \"11\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Corned beef\", measure: \"3 oz.\", grams: \"85\", calories: \"185\", protein: \"22\", fat: \"10\", sat.fat: \"9\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Corned beef hash canned\", measure: \"3 oz.\", grams: \"85\", calories: \"120\", protein: \"12\", fat: \"8\", sat.fat: \"7\", fiber: \"t\", carbs: \"6\", category: \"Meat, Poultry\""}
+{"text": "food: \"Corned beef hash Dried\", measure: \"2 oz.\", grams: \"56\", calories: \"115\", protein: \"19\", fat: \"4\", sat.fat: \"4\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Pot-pie\", measure: \"1 pie\", grams: \"227\", calories: \"480\", protein: \"18\", fat: \"28\", sat.fat: \"25\", fiber: \"t\", carbs: \"32\", category: \"Meat, Poultry\""}
+{"text": "food: \"Corned beef hash Stew\", measure: \"1 cup\", grams: \"235\", calories: \"185\", protein: \"15\", fat: \"10\", sat.fat: \"9\", fiber: \"t\", carbs: \"15\", category: \"Meat, Poultry\""}
+{"text": "food: \"chicken\", measure: \"3 oz.\", grams: \"85\", calories: \"185\", protein: \"23\", fat: \"9\", sat.fat: \"7\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Fried, breast or leg and thigh chicken\", measure: \"3 oz.\", grams: \"85\", calories: \"245\", protein: \"25\", fat: \"15\", sat.fat: \"11\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Roasted chicken\", measure: \"3 1/2 oz.\", grams: \"100\", calories: \"290\", protein: \"25\", fat: \"20\", sat.fat: \"16\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Chicken livers, fried\", measure: \"3 med.\", grams: \"100\", calories: \"140\", protein: \"22\", fat: \"14\", sat.fat: \"12\", fiber: \"0\", carbs: \"2.30\", category: \"Meat, Poultry\""}
+{"text": "food: \"Duck, domestic\", measure: \"3 1/2 oz.\", grams: \"100\", calories: \"370\", protein: \"16\", fat: \"28\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Lamb, chop, broiled\", measure: \"4 oz.\", grams: \"115\", calories: \"480\", protein: \"24\", fat: \"35\", sat.fat: \"33\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Leg roasted\", measure: \"3 oz.\", grams: \"86\", calories: \"314\", protein: \"20\", fat: \"14\", sat.fat: \"14\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Shoulder, braised\", measure: \"3 oz.\", grams: \"85\", calories: \"285\", protein: \"18\", fat: \"23\", sat.fat: \"21\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Pork, chop, 1 thick\", measure: \"3 1/2 oz.\", grams: \"100\", calories: \"260\", protein: \"16\", fat: \"21\", sat.fat: \"18\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Ham pan-broiled\", measure: \"3 oz.\", grams: \"85\", calories: \"290\", protein: \"16\", fat: \"22\", sat.fat: \"19\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Ham, as \", measure: \"2 oz.\", grams: \"57\", calories: \"170\", protein: \"13\", fat: \"13\", sat.fat: \"11\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Ham, canned, spiced\", measure: \"2 oz.\", grams: \"57\", calories: \"165\", protein: \"8\", fat: \"14\", sat.fat: \"12\", fiber: \"0\", carbs: \"1\", category: \"Meat, Poultry\""}
+{"text": "food: \"Pork roast\", measure: \"3 oz.\", grams: \"85\", calories: \"310\", protein: \"21\", fat: \"24\", sat.fat: \"21\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Pork sausage\", measure: \"3 1/2 oz.\", grams: \"100\", calories: \"475\", protein: \"18\", fat: \"44\", sat.fat: \"40\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Turkey\", measure: \"3 1/2 oz.\", grams: \"100\", calories: \"265\", protein: \"27\", fat: \"15\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Veal\", measure: \"3 oz.\", grams: \"85\", calories: \"185\", protein: \"23\", fat: \"9\", sat.fat: \"8\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Roast\", measure: \"3 oz.\", grams: \"85\", calories: \"305\", protein: \"13\", fat: \"14\", sat.fat: \"13\", fiber: \"0\", carbs: \"0\", category: \"Meat, Poultry\""}
+{"text": "food: \"Clams\", measure: \"3 oz.\", grams: \"85\", calories: \"87\", protein: \"12\", fat: \"1\", sat.fat: \"0\", fiber: \"0\", carbs: \"2\", category: \"Fish, Seafood\""}
+{"text": "food: \"Cod\", measure: \"3 1/2 oz.\", grams: \"100\", calories: \"170\", protein: \"28\", fat: \"5\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Crab meat\", measure: \"3 oz.\", grams: \"85\", calories: \"90\", protein: \"14\", fat: \"2\", sat.fat: \"0\", fiber: \"0\", carbs: \"1\", category: \"Fish, Seafood\""}
+{"text": "food: \"Fish sticks fried\", measure: \"5\", grams: \"112\", calories: \"200\", protein: \"19\", fat: \"10\", sat.fat: \"5\", fiber: \"0\", carbs: \"8\", category: \"Fish, Seafood\""}
+{"text": "food: \"Flounder\", measure: \"3 1/2 oz.\", grams: \"100\", calories: \"200\", protein: \"30\", fat: \"8\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Haddock\", measure: \"3 oz.\", grams: \"85\", calories: \"135\", protein: \"16\", fat: \"5\", sat.fat: \"4\", fiber: \"0\", carbs: \"6\", category: \"Fish, Seafood\""}
+{"text": "food: \"Halibut\", measure: \"3 1/2 oz.\", grams: \"100\", calories: \"182\", protein: \"26\", fat: \"8\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Herring\", measure: \"1 small\", grams: \"100\", calories: \"211\", protein: \"22\", fat: \"13\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Lobster\", measure: \"aver.\", grams: \"100\", calories: \"92\", protein: \"18\", fat: \"1\", sat.fat: \"0\", fiber: \"0\", carbs: \"t\", category: \"Fish, Seafood\""}
+{"text": "food: \"Mackerel\", measure: \"3 oz.\", grams: \"85\", calories: \"155\", protein: \"18\", fat: \"9\", sat.fat: \"0\", fiber: \"a\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Oysters\", measure: \"6-8 med.\", grams: \"230\", calories: \"231\", protein: \"232\", fat: \"233\", sat.fat: \"234\", fiber: \"235\", carbs: \"236\", category: \"Fish, Seafood\""}
+{"text": "food: \"Oyster stew\", measure: \"1 cup\", grams: \"85\", calories: \"125\", protein: \"19\", fat: \"6\", sat.fat: \"1\", fiber: \"0\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Salmon\", measure: \"3 oz.\", grams: \"85\", calories: \"120\", protein: \"17\", fat: \"5\", sat.fat: \"1\", fiber: \"0\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Sardines\", measure: \"3 oz.\", grams: \"85\", calories: \"180\", protein: \"22\", fat: \"9\", sat.fat: \"4\", fiber: \"0\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Scallops\", measure: \"3 1/2 oz.\", grams: \"100\", calories: \"104\", protein: \"18\", fat: \"8\", sat.fat: \"0\", fiber: \"0\", carbs: \"10\", category: \"Fish, Seafood\""}
+{"text": "food: \"Shad\", measure: \"3 oz.\", grams: \"85\", calories: \"170\", protein: \"20\", fat: \"10\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Shrimp\", measure: \"3 oz.\", grams: \"85\", calories: \"110\", protein: \"23\", fat: \"1\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Swordfish\", measure: \"1 steak\", grams: \"100\", calories: \"180\", protein: \"27\", fat: \"6\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Tuna\", measure: \"3 oz.\", grams: \"85\", calories: \"170\", protein: \"25\", fat: \"7\", sat.fat: \"3\", fiber: \"0\", carbs: \"0\", category: \"Fish, Seafood\""}
+{"text": "food: \"Artichoke\", measure: \"1 large\", grams: \"100\", calories: \"8-44\", protein: \"2\", fat: \"t\", sat.fat: \"t\", fiber: \"2\", carbs: \"10\", category: \"Vegetables A-E\""}
+{"text": "food: \"Asparagus\", measure: \"6 spears\", grams: \"96\", calories: \"18\", protein: \"1\", fat: \"t\", sat.fat: \"t\", fiber: \"0.5\", carbs: \"3\", category: \"Vegetables A-E\""}
+{"text": "food: \"Beans\", measure: \"1 cup\", grams: \"125\", calories: \"25\", protein: \"1\", fat: \"t\", sat.fat: \"t\", fiber: \"0.8\", carbs: \"6\", category: \"Vegetables A-E\""}
+{"text": "food: \"Lima\", measure: \"1 cup\", grams: \"160\", calories: \"140\", protein: \"8\", fat: \"t\", sat.fat: \"t\", fiber: \"3.0\", carbs: \"24\", category: \"Vegetables A-E\""}
+{"text": "food: \"Lima, dry, cooked\", measure: \"1 cup\", grams: \"192\", calories: \"260\", protein: \"16\", fat: \"t\", sat.fat: \"t\", fiber: \"2\", carbs: \"48\", category: \"Vegetables A-E\""}
+{"text": "food: \"Navy, baked with pork\", measure: \"3/4 cup\", grams: \"200\", calories: \"250\", protein: \"11\", fat: \"6\", sat.fat: \"6\", fiber: \"2\", carbs: \"37\", category: \"Vegetables A-E\""}
+{"text": "food: \"Red kidney\", measure: \"1 cup\", grams: \"260\", calories: \"230\", protein: \"15\", fat: \"1\", sat.fat: \"0\", fiber: \"2.5\", carbs: \"42\", category: \"Vegetables A-E\""}
+{"text": "food: \"Bean sprouts\", measure: \"1 cup\", grams: \"50\", calories: \"17\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.3\", carbs: \"3\", category: \"Vegetables A-E\""}
+{"text": "food: \"Beet greens\", measure: \"1 cup\", grams: \"100\", calories: \"27\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"1.4\", carbs: \"6\", category: \"Vegetables A-E\""}
+{"text": "food: \"Beetroots\", measure: \"1 cup\", grams: \"165\", calories: \"1\", protein: \"12\", fat: \"0\", sat.fat: \"nan\", fiber: \"t\", carbs: \"0.80\", category: \"Vegetables A-E\""}
+{"text": "food: \"Broccoli\", measure: \"1 cup\", grams: \"150\", calories: \"45\", protein: \"5\", fat: \"t\", sat.fat: \"0\", fiber: \"1.9\", carbs: \"8\", category: \"Vegetables A-E\""}
+{"text": "food: \"Brussels sprouts\", measure: \"1 cup\", grams: \"130\", calories: \"60\", protein: \"6\", fat: \"t\", sat.fat: \"0\", fiber: \"1.7\", carbs: \"12\", category: \"Vegetables A-E\""}
+{"text": "food: \"Sauerkraut\", measure: \"1 cup\", grams: \"150\", calories: \"32\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1.2\", carbs: \"7\", category: \"Vegetables A-E\""}
+{"text": "food: \"Steamed cabbage\", measure: \"1 cup\", grams: \"170\", calories: \"40\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"1.3\", carbs: \"9\", category: \"Vegetables A-E\""}
+{"text": "food: \"Carrots\", measure: \"1 cup\", grams: \"150\", calories: \"45\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.9\", carbs: \"10\", category: \"Vegetables A-E\""}
+{"text": "food: \"Raw, grated\", measure: \"1 cup\", grams: \"110\", calories: \"45\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1.2\", carbs: \"10\", category: \"Vegetables A-E\""}
+{"text": "food: \"Strips, from raw\", measure: \"1 mad.\", grams: \"50\", calories: \"20\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"0.5\", carbs: \"5\", category: \"Vegetables A-E\""}
+{"text": "food: \"Cauliflower\", measure: \"1 cup\", grams: \"120\", calories: \"30\", protein: \"3\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"6\", category: \"Vegetables A-E\""}
+{"text": "food: \"Celery\", measure: \"1 cup\", grams: \"100\", calories: \"20\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"4\", category: \"Vegetables A-E\""}
+{"text": "food: \"Stalk raw\", measure: \"1 large\", grams: \"40\", calories: \"5\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.3\", carbs: \"1\", category: \"Vegetables A-E\""}
+{"text": "food: \"Chard steamed\", measure: \"1 cup\", grams: \"150\", calories: \"30\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"1.4\", carbs: \"7\", category: \"Vegetables A-E\""}
+{"text": "food: \"Collards\", measure: \"1 cup\", grams: \"150\", calories: \"51\", protein: \"5\", fat: \"t\", sat.fat: \"0\", fiber: \"2\", carbs: \"8\", category: \"Vegetables A-E\""}
+{"text": "food: \"Corn\", measure: \"1 ear\", grams: \"100\", calories: \"92\", protein: \"3\", fat: \"1\", sat.fat: \"t\", fiber: \"0.8\", carbs: \"21\", category: \"Vegetables A-E\""}
+{"text": "food: \"cooked or canned\", measure: \"1 cup\", grams: \"200\", calories: \"170\", protein: \"5\", fat: \"t\", sat.fat: \"0\", fiber: \"1.6\", carbs: \"41\", category: \"Vegetables A-E\""}
+{"text": "food: \"Cucumbers\", measure: \"8\", grams: \"50\", calories: \"6\", protein: \"t\", fat: \"0\", sat.fat: \"0\", fiber: \"0.2\", carbs: \"1\", category: \"Vegetables A-E\""}
+{"text": "food: \"Dandelion greens\", measure: \"1 cup\", grams: \"180\", calories: \"80\", protein: \"5\", fat: \"1\", sat.fat: \"0\", fiber: \"3.2\", carbs: \"16\", category: \"Vegetables A-E\""}
+{"text": "food: \"Eggplant\", measure: \"1 cup\", grams: \"180\", calories: \"30\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"1.0\", carbs: \"9\", category: \"Vegetables A-E\""}
+{"text": "food: \"Endive\", measure: \"2 oz.\", grams: \"57\", calories: \"10\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.6\", carbs: \"2\", category: \"Vegetables A-E\""}
+{"text": "food: \"Kale\", measure: \"1 cup\", grams: \"110\", calories: \"45\", protein: \"4\", fat: \"1\", sat.fat: \"0\", fiber: \"0.9\", carbs: \"8\", category: \"Vegetables F-P\""}
+{"text": "food: \"Kohlrabi\", measure: \"1 cup\", grams: \"140\", calories: \"40\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"1.5\", carbs: \"9\", category: \"Vegetables F-P\""}
+{"text": "food: \"Lambs quarters, steamed\", measure: \"1 cup\", grams: \"150\", calories: \"48\", protein: \"5\", fat: \"t\", sat.fat: \"0\", fiber: \"3.2\", carbs: \"7\", category: \"Vegetables F-P\""}
+{"text": "food: \"Lentils\", measure: \"1 cup\", grams: \"200\", calories: \"212\", protein: \"15\", fat: \"t\", sat.fat: \"0\", fiber: \"2.4\", carbs: \"38\", category: \"Vegetables F-P\""}
+{"text": "food: \"Lettuce\", measure: \"1/4 head\", grams: \"100\", calories: \"14\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.5\", carbs: \"2\", category: \"Vegetables F-P\""}
+{"text": "food: \"Iceberg\", measure: \"1/4 head\", grams: \"100\", calories: \"13\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"0.5\", carbs: \"3\", category: \"Vegetables F-P\""}
+{"text": "food: \"Mushrooms canned\", measure: \"4\", grams: \"120\", calories: \"12\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"t\", carbs: \"4\", category: \"Vegetables F-P\""}
+{"text": "food: \"Mustard greens\", measure: \"1\", grams: \"140\", calories: \"30\", protein: \"3\", fat: \"t\", sat.fat: \"0\", fiber: \"1.2\", carbs: \"6\", category: \"Vegetables F-P\""}
+{"text": "food: \"Okra\", measure: \"1 1/3 cups\", grams: \"100\", calories: \"32\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"7\", category: \"Vegetables F-P\""}
+{"text": "food: \"Onions\", measure: \"1\", grams: \"210\", calories: \"80\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"1.6\", carbs: \"18\", category: \"Vegetables F-P\""}
+{"text": "food: \"Raw, green\", measure: \"6 small\", grams: \"50\", calories: \"22\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"5\", category: \"Vegetables F-P\""}
+{"text": "food: \"Parsley\", measure: \"2 T.\", grams: \"50\", calories: \"2\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"t\", carbs: \"t\", category: \"Vegetables F-P\""}
+{"text": "food: \"Parsnips\", measure: \"1 cup\", grams: \"155\", calories: \"95\", protein: \"2\", fat: \"1\", sat.fat: \"0\", fiber: \"3\", carbs: \"22\", category: \"Vegetables F-P\""}
+{"text": "food: \"Peas\", measure: \"1 cup\", grams: \"100\", calories: \"66\", protein: \"3\", fat: \"t\", sat.fat: \"0\", fiber: \"0.1\", carbs: \"13\", category: \"Vegetables F-P\""}
+{"text": "food: \"Fresh, steamed peas\", measure: \"1 cup\", grams: \"100\", calories: \"70\", protein: \"5\", fat: \"t\", sat.fat: \"0\", fiber: \"2.2\", carbs: \"12\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Frozen peas\", measure: \"1 cup\", grams: \"100\", calories: \"nan\", protein: \"5\", fat: \"t\", sat.fat: \"0\", fiber: \"1.8\", carbs: \"12\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Split cooked peas\", measure: \"4 cups\", grams: \"100\", calories: \"115\", protein: \"8\", fat: \"t\", sat.fat: \"0\", fiber: \"0.4\", carbs: \"21\", category: \"Vegetables R-Z\""}
+{"text": "food: \"heated peas\", measure: \"1 cup\", grams: \"100\", calories: \"53\", protein: \"3\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"10\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Peppers canned\", measure: \"1 pod\", grams: \"38\", calories: \"10\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"t\", carbs: \"2\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Peppers Raw, green, sweet\", measure: \"1 large\", grams: \"100\", calories: \"25\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1.4\", carbs: \"6\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Peppers with beef and crumbs\", measure: \"1 med.\", grams: \"150\", calories: \"255\", protein: \"19\", fat: \"9\", sat.fat: \"8\", fiber: \"1\", carbs: \"24\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Potatoes, baked\", measure: \"1 med.\", grams: \"100\", calories: \"100\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"0.5\", carbs: \"22\", category: \"Vegetables R-Z\""}
+{"text": "food: \"French-fried\", measure: \"10 pieces\", grams: \"60\", calories: \"155\", protein: \"-1\", fat: \"7\", sat.fat: \"3\", fiber: \"0.4\", carbs: \"20\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Potatoes Mashed with milk and butter\", measure: \"1 cup\", grams: \"200\", calories: \"230\", protein: \"4\", fat: \"12\", sat.fat: \"11\", fiber: \"0.7\", carbs: \"28\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Potatoes, pan-tried\", measure: \"3/4 cup\", grams: \"100\", calories: \"268\", protein: \"4\", fat: \"14\", sat.fat: \"6\", fiber: \"0.40\", carbs: \"33\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Scalloped with cheese potatoes\", measure: \"3/4 cup\", grams: \"100\", calories: \"145\", protein: \"6\", fat: \"8\", sat.fat: \"7\", fiber: \"0.40\", carbs: \"14\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Steamed potatoes before peeling\", measure: \"1 med.\", grams: \"100\", calories: \"80\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"0.40\", carbs: \"19\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Potato chips\", measure: \"10\", grams: \"20\", calories: \"110\", protein: \"1\", fat: \"7\", sat.fat: \"4\", fiber: \"t\", carbs: \"10\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Radishes\", measure: \"5 small\", grams: \"50\", calories: \"10\", protein: \"t\", fat: \"0\", sat.fat: \"0\", fiber: \"0.3\", carbs: \"2\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Rutabagas\", measure: \"4 cups\", grams: \"100\", calories: \"32\", protein: \"t\", fat: \"0\", sat.fat: \"0\", fiber: \"1.4\", carbs: \"8\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Soybeans\", measure: \"1 cup\", grams: \"200\", calories: \"260\", protein: \"22\", fat: \"11\", sat.fat: \"0\", fiber: \"3.2\", carbs: \"20\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Spinach\", measure: \"1 cup\", grams: \"100\", calories: \"26\", protein: \"3\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"3\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Squash\", measure: \"1 cup\", grams: \"210\", calories: \"35\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.6\", carbs: \"8\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Winter, mashed\", measure: \"1 cup\", grams: \"200\", calories: \"95\", protein: \"4\", fat: \"t\", sat.fat: \"0\", fiber: \"2.6\", carbs: \"23\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Sweet potatoes\", measure: \"1 med.\", grams: \"110\", calories: \"155\", protein: \"2\", fat: \"1\", sat.fat: \"0\", fiber: \"1\", carbs: \"36\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Candied\", measure: \"1 med.\", grams: \"175\", calories: \"235\", protein: \"2\", fat: \"6\", sat.fat: \"5\", fiber: \"1.5\", carbs: \"80\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Tomatoes\", measure: \"1 cup\", grams: \"240\", calories: \"50\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"9\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Raw, 2 by 2 1/2\", measure: \"1 med.\", grams: \"150\", calories: \"30\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.6\", carbs: \"6\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Tomato juice\", measure: \"1 cup\", grams: \"240\", calories: \"50\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"0.6\", carbs: \"10\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Tomato catsup\", measure: \"1 T.\", grams: \"17\", calories: \"15\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"t\", carbs: \"4\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Turnip greens\", measure: \"1 cup\", grams: \"145\", calories: \"45\", protein: \"4\", fat: \"1\", sat.fat: \"0\", fiber: \"1.8\", carbs: \"8\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Turnips, steamed\", measure: \"1 cup\", grams: \"155\", calories: \"40\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1.8\", carbs: \"9\", category: \"Vegetables R-Z\""}
+{"text": "food: \"Watercress stems, raw\", measure: \"1 cup\", grams: \"50\", calories: \"9\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.3\", carbs: \"1\", category: \"Fruits A-F\""}
+{"text": "food: \"Apple juice canned\", measure: \"1 cup\", grams: \"250\", calories: \"125\", protein: \"t\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"34\", category: \"Fruits A-F\""}
+{"text": "food: \"Apple vinegar\", measure: \"1/3 cup\", grams: \"100\", calories: \"14\", protein: \"t\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"3\", category: \"Fruits A-F\""}
+{"text": "food: \"Apples, raw\", measure: \"1 med\", grams: \"130\", calories: \"70\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"18\", category: \"Fruits A-F\""}
+{"text": "food: \"Stewed or canned\", measure: \"1 cup\", grams: \"240\", calories: \"100\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"2\", carbs: \"26\", category: \"Fruits A-F\""}
+{"text": "food: \"Apricots\", measure: \"1 cup\", grams: \"250\", calories: \"220\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"57\", category: \"Fruits A-F\""}
+{"text": "food: \"Dried, uncooked\", measure: \"1/2 cup\", grams: \"75\", calories: \"220\", protein: \"4\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"50\", category: \"Fruits A-F\""}
+{"text": "food: \"Fresh\", measure: \"3 med.\", grams: \"114\", calories: \"55\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.70\", carbs: \"14\", category: \"Fruits A-F\""}
+{"text": "food: \"Nectar, or juice\", measure: \"1 cup\", grams: \"250\", calories: \"140\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"2\", carbs: \"36\", category: \"Fruits A-F\""}
+{"text": "food: \"Avocado\", measure: \"1/2 large\", grams: \"108\", calories: \"185\", protein: \"2\", fat: \"18\", sat.fat: \"12\", fiber: \"1.80\", carbs: \"6\", category: \"Fruits A-F\""}
+{"text": "food: \"Banana\", measure: \"1 med.\", grams: \"150\", calories: \"85\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.9\", carbs: \"23\", category: \"Fruits A-F\""}
+{"text": "food: \"Blackberries\", measure: \"1 cup\", grams: \"144\", calories: \"85\", protein: \"2\", fat: \"1\", sat.fat: \"0\", fiber: \"6.60\", carbs: \"19\", category: \"Fruits A-F\""}
+{"text": "food: \"Blueberries\", measure: \"1 cup\", grams: \"250\", calories: \"245\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"2\", carbs: \"65\", category: \"Fruits A-F\""}
+{"text": "food: \"Cantaloupe\", measure: \"1/2 med.\", grams: \"380\", calories: \"40\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"2.20\", carbs: \"9\", category: \"Fruits A-F\""}
+{"text": "food: \"Cherries\", measure: \"1 cup\", grams: \"257\", calories: \"100\", protein: \"2\", fat: \"1\", sat.fat: \"0\", fiber: \"2\", carbs: \"26\", category: \"Fruits A-F\""}
+{"text": "food: \"Fresh, raw\", measure: \"1 cup\", grams: \"114\", calories: \"65\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.8\", carbs: \"15\", category: \"Fruits A-F\""}
+{"text": "food: \"Cranberry sauce sweetened\", measure: \"1 cup\", grams: \"277\", calories: \"530\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"1.2\", carbs: \"142\", category: \"Fruits A-F\""}
+{"text": "food: \"Dates\", measure: \"1 cup\", grams: \"178\", calories: \"505\", protein: \"4\", fat: \"t\", sat.fat: \"0\", fiber: \"3.6\", carbs: \"134\", category: \"Fruits A-F\""}
+{"text": "food: \"Figs\", measure: \"2\", grams: \"42\", calories: \"120\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"1.9\", carbs: \"30\", category: \"Fruits A-F\""}
+{"text": "food: \"Fresh, raw figs\", measure: \"3 med.\", grams: \"114\", calories: \"90\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"22\", category: \"Fruits A-F\""}
+{"text": "food: \"figs Canned with syrup \", measure: \"3\", grams: \"115\", calories: \"130\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"32\", category: \"Fruits A-F\""}
+{"text": "food: \"Fruit cocktail, canned\", measure: \"1 cup\", grams: \"256\", calories: \"195\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.5\", carbs: \"50\", category: \"Fruits A-F\""}
+{"text": "food: \"Grapefruit sections\", measure: \"1 cup\", grams: \"250\", calories: \"170\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.5\", carbs: \"44\", category: \"Fruits G-P\""}
+{"text": "food: \"Grapefruit, fresh, 5\" diameter\", measure: \"1/2\", grams: \"285\", calories: \"50\", protein: \"1\", fat: \"t\", sat.fat: \"t\", fiber: \"1\", carbs: \"14\", category: \"Fruits G-P\""}
+{"text": "food: \"Grapefruit juice\", measure: \"1 cup\", grams: \"250\", calories: \"100\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"24\", category: \"Fruits G-P\""}
+{"text": "food: \"Grapes\", measure: \"1 cup\", grams: \"153\", calories: \"70\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.8\", carbs: \"16\", category: \"Fruits G-P\""}
+{"text": "food: \"European, as Muscat, Tokay\", measure: \"1 cup\", grams: \"160\", calories: \"100\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.7\", carbs: \"26\", category: \"Fruits G-P\""}
+{"text": "food: \"Grape juice\", measure: \"1 cup\", grams: \"250\", calories: \"160\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"t\", carbs: \"42\", category: \"Fruits G-P\""}
+{"text": "food: \"Lemon juice\", measure: \"1/2 cup\", grams: \"125\", calories: \"30\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"t\", carbs: \"10\", category: \"Fruits G-P\""}
+{"text": "food: \"Lemonade concentratefrozen\", measure: \"6-oz. can\", grams: \"220\", calories: \"430\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"t\", carbs: \"112\", category: \"Fruits G-P\""}
+{"text": "food: \"Limeade concentrate frozen\", measure: \"6-oz. can\", grams: \"218\", calories: \"405\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"t\", carbs: \"108\", category: \"Fruits G-P\""}
+{"text": "food: \"Olives large\", measure: \"10\", grams: \"65\", calories: \"72\", protein: \"1\", fat: \"10\", sat.fat: \"9\", fiber: \"0.8\", carbs: \"3\", category: \"Fruits G-P\""}
+{"text": "food: \"OlivesRipe\", measure: \"10\", grams: \"65\", calories: \"105\", protein: \"1\", fat: \"13\", sat.fat: \"12\", fiber: \"1\", carbs: \"1\", category: \"Fruits G-P\""}
+{"text": "food: \"Oranges 3\" diameter\", measure: \"1 med.\", grams: \"180\", calories: \"60\", protein: \"2\", fat: \"t\", sat.fat: \"t\", fiber: \"1\", carbs: \"16\", category: \"Fruits G-P\""}
+{"text": "food: \"Orange juice\", measure: \"8 oz. or\", grams: \"250\", calories: \"112\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"0.2\", carbs: \"25\", category: \"Fruits G-P\""}
+{"text": "food: \"Frozen \", measure: \"6-oz. can\", grams: \"210\", calories: \"330\", protein: \"2\", fat: \"t\", sat.fat: \"t\", fiber: \"0.4\", carbs: \"78\", category: \"Fruits G-P\""}
+{"text": "food: \"Papaya\", measure: \"1/2 med.\", grams: \"200\", calories: \"75\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1.8\", carbs: \"18\", category: \"Fruits G-P\""}
+{"text": "food: \"Peaches\", measure: \"1 cup\", grams: \"257\", calories: \"200\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"52\", category: \"Fruits G-P\""}
+{"text": "food: \"Fresh, raw\", measure: \"1 med.\", grams: \"114\", calories: \"35\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.6\", carbs: \"10\", category: \"Fruits G-P\""}
+{"text": "food: \"Pears\", measure: \"1 cup\", grams: \"255\", calories: \"195\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"2\", carbs: \"50\", category: \"Fruits G-P\""}
+{"text": "food: \"Raw, 3 by 2V\", measure: \"1 med.\", grams: \"182\", calories: \"100\", protein: \"1\", fat: \"1\", sat.fat: \"0\", fiber: \"2\", carbs: \"25\", category: \"Fruits G-P\""}
+{"text": "food: \"Persimmons\", measure: \"1 med.\", grams: \"125\", calories: \"75\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"2\", carbs: \"20\", category: \"Fruits G-P\""}
+{"text": "food: \"Pineapple\", measure: \"1 large slice\", grams: \"122\", calories: \"95\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"0.4\", carbs: \"26\", category: \"Fruits G-P\""}
+{"text": "food: \"Pineapple Crushed\", measure: \"1 cup\", grams: \"260\", calories: \"205\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.7\", carbs: \"55\", category: \"Fruits G-P\""}
+{"text": "food: \"Raw, diced\", measure: \"1 cup\", grams: \"140\", calories: \"75\", protein: \"1\", fat: \"t'\", sat.fat: \"0\", fiber: \"0.6\", carbs: \"19\", category: \"Fruits G-P\""}
+{"text": "food: \"Pineapple juice\", measure: \"1 cup\", grams: \"250\", calories: \"120\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.2\", carbs: \"32\", category: \"Fruits G-P\""}
+{"text": "food: \"Plums\", measure: \"1 cup\", grams: \"256\", calories: \"185\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.7\", carbs: \"50\", category: \"Fruits G-P\""}
+{"text": "food: \"Raw, 2\" diameter\", measure: \"1\", grams: \"60\", calories: \"30\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"0.2\", carbs: \"7\", category: \"Fruits G-P\""}
+{"text": "food: \"Prunes\", measure: \"1 cup\", grams: \"270\", calories: \"300\", protein: \"3\", fat: \"1\", sat.fat: \"0\", fiber: \"0.8\", carbs: \"81\", category: \"Fruits G-P\""}
+{"text": "food: \"Prune juice\", measure: \"1 cup\", grams: \"240\", calories: \"170\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.7\", carbs: \"45\", category: \"Fruits G-P\""}
+{"text": "food: \"Raisins\", measure: \"1/2 cup\", grams: \"88\", calories: \"230\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"0.7\", carbs: \"82\", category: \"Fruits R-Z\""}
+{"text": "food: \"Raspberries\", measure: \"1/2 cup\", grams: \"100\", calories: \"100\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"2\", carbs: \"25\", category: \"Fruits R-Z\""}
+{"text": "food: \"Raw, red\", measure: \"3/4 cup\", grams: \"100\", calories: \"57\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"5\", carbs: \"14\", category: \"Fruits R-Z\""}
+{"text": "food: \"Rhubarb sweetened\", measure: \"1 cup\", grams: \"270\", calories: \"385\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1.9\", carbs: \"98\", category: \"Fruits R-Z\""}
+{"text": "food: \"Strawberries\", measure: \"1 cup\", grams: \"227\", calories: \"242\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1.3\", carbs: \"60\", category: \"Fruits R-Z\""}
+{"text": "food: \"Raw\", measure: \"1 cup\", grams: \"149\", calories: \"54\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"1.9\", carbs: \"12\", category: \"Fruits R-Z\""}
+{"text": "food: \"Tangerines\", measure: \"I med.\", grams: \"114\", calories: \"40\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"1\", carbs: \"10\", category: \"Fruits R-Z\""}
+{"text": "food: \"Watermelon\", measure: \"1 wedge\", grams: \"925\", calories: \"120\", protein: \"2\", fat: \"1\", sat.fat: \"0\", fiber: \"3.6\", carbs: \"29\", category: \"Fruits R-Z\""}
+{"text": "food: \"Biscuits\", measure: \"1\", grams: \"38\", calories: \"130\", protein: \"3\", fat: \"4\", sat.fat: \"3\", fiber: \"t\", carbs: \"18\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Bran flakes\", measure: \"1 cup\", grams: \"25\", calories: \"117\", protein: \"3\", fat: \"t\", sat.fat: \"0\", fiber: \"0.10\", carbs: \"32\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Bread, cracked wheat\", measure: \"1 slice\", grams: \"23\", calories: \"60\", protein: \"2\", fat: \"1\", sat.fat: \"1\", fiber: \"0.10\", carbs: \"12\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Rye\", measure: \"1 slice\", grams: \"23\", calories: \"55\", protein: \"2\", fat: \"1\", sat.fat: \"1\", fiber: \"0.10\", carbs: \"12\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"White, 20 slices, or\", measure: \"1-lb. loaf\", grams: \"454\", calories: \"1,225\", protein: \"39\", fat: \"15\", sat.fat: \"12\", fiber: \"9.00\", carbs: \"229\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Whole-wheat\", measure: \"1-lb. loaf\", grams: \"454\", calories: \"1,100\", protein: \"48\", fat: \"14\", sat.fat: \"10\", fiber: \"67.50\", carbs: \"216\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Whole-wheat\", measure: \"1 slice\", grams: \"23\", calories: \"55\", protein: \"2\", fat: \"1\", sat.fat: \"0\", fiber: \"0.31\", carbs: \"11\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Corn bread ground meal\", measure: \"1 serving\", grams: \"50\", calories: \"100\", protein: \"3\", fat: \"4\", sat.fat: \"2\", fiber: \"0.30\", carbs: \"15\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Cornflakes\", measure: \"1 cup\", grams: \"25\", calories: \"110\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"0.1\", carbs: \"25\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Corn grits cooked\", measure: \"1 cup\", grams: \"242\", calories: \"120\", protein: \"8\", fat: \"t\", sat.fat: \"0\", fiber: \"0.2\", carbs: \"27\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Corn meal\", measure: \"1 cup\", grams: \"118\", calories: \"360\", protein: \"9\", fat: \"4\", sat.fat: \"2\", fiber: \"1.6\", carbs: \"74\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Crackers\", measure: \"2 med.\", grams: \"14\", calories: \"55\", protein: \"1\", fat: \"1\", sat.fat: \"0\", fiber: \"t\", carbs: \"10\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Soda, 2 1/2 square\", measure: \"2\", grams: \"11\", calories: \"45\", protein: \"1\", fat: \"1\", sat.fat: \"0\", fiber: \"t\", carbs: \"8\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Farina\", measure: \"1 cup\", grams: \"238\", calories: \"105\", protein: \"3\", fat: \"t\", sat.fat: \"0\", fiber: \"8\", carbs: \"22\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Flour\", measure: \"1 cup\", grams: \"110\", calories: \"460\", protein: \"39\", fat: \"22\", sat.fat: \"0\", fiber: \"2.9\", carbs: \"33\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Wheat (all purpose)\", measure: \"1 cup\", grams: \"110\", calories: \"400\", protein: \"12\", fat: \"1\", sat.fat: \"0\", fiber: \"0.3\", carbs: \"84\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Wheat (whole)\", measure: \"1 cup\", grams: \"120\", calories: \"390\", protein: \"13\", fat: \"2\", sat.fat: \"0\", fiber: \"2.8\", carbs: \"79\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Macaroni\", measure: \"1 cup\", grams: \"140\", calories: \"155\", protein: \"5\", fat: \"1\", sat.fat: \"0\", fiber: \"0.1\", carbs: \"32\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Baked with cheese\", measure: \"1 cup\", grams: \"220\", calories: \"475\", protein: \"18\", fat: \"25\", sat.fat: \"24\", fiber: \"t\", carbs: \"44\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Muffins\", measure: \"1\", grams: \"48\", calories: \"135\", protein: \"4\", fat: \"5\", sat.fat: \"4\", fiber: \"t\", carbs: \"19\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Noodles\", measure: \"1 cup\", grams: \"160\", calories: \"200\", protein: \"7\", fat: \"2\", sat.fat: \"2\", fiber: \"0.1\", carbs: \"37\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Oatmeal\", measure: \"1 cup\", grams: \"236\", calories: \"150\", protein: \"5\", fat: \"3\", sat.fat: \"2\", fiber: \"4.6\", carbs: \"26\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Pancakes 4\" diam.\", measure: \"4\", grams: \"108\", calories: \"250\", protein: \"7\", fat: \"9\", sat.fat: \"0\", fiber: \"0.1\", carbs: \"28\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Wheat, pancakes 4\" diam.\", measure: \"4\", grams: \"108\", calories: \"250\", protein: \"7\", fat: \"9\", sat.fat: \"0\", fiber: \"0.1\", carbs: \"28\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Pizza 14\" diam.\", measure: \"1 section\", grams: \"75\", calories: \"180\", protein: \"8\", fat: \"6\", sat.fat: \"5\", fiber: \"t\", carbs: \"23\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Popcorn salted\", measure: \"2 cups\", grams: \"28\", calories: \"152\", protein: \"3\", fat: \"7\", sat.fat: \"2\", fiber: \"0.5\", carbs: \"20\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Puffed rice\", measure: \"1 cup\", grams: \"14\", calories: \"55\", protein: \"t\", fat: \"t\", sat.fat: \"0\", fiber: \"t\", carbs: \"12\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Puffed wheat presweetened\", measure: \"1 cup\", grams: \"28\", calories: \"105\", protein: \"1\", fat: \"t\", sat.fat: \"0\", fiber: \"0.6\", carbs: \"26\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Rice\", measure: \"1 cup\", grams: \"208\", calories: \"748\", protein: \"15\", fat: \"3\", sat.fat: \"0\", fiber: \"1.2\", carbs: \"154\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Converted\", measure: \"1 cup\", grams: \"187\", calories: \"677\", protein: \"14\", fat: \"t\", sat.fat: \"0\", fiber: \"0.4\", carbs: \"142\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"White\", measure: \"1 cup\", grams: \"191\", calories: \"692\", protein: \"14\", fat: \"t\", sat.fat: \"0\", fiber: \"0.3\", carbs: \"150\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Rice flakes\", measure: \"1 cup\", grams: \"30\", calories: \"115\", protein: \"2\", fat: \"t\", sat.fat: \"0\", fiber: \"0.1\", carbs: \"26\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Rice polish\", measure: \"1/2 cup\", grams: \"50\", calories: \"132\", protein: \"6\", fat: \"6\", sat.fat: \"0\", fiber: \"1.2\", carbs: \"28\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Rolls\", measure: \"1 large\", grams: \"50\", calories: \"411\", protein: \"3\", fat: \"12\", sat.fat: \"11\", fiber: \"0.1\", carbs: \"23\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"of refined flour\", measure: \"1\", grams: \"38\", calories: \"115\", protein: \"3\", fat: \"2\", sat.fat: \"2\", fiber: \"t\", carbs: \"20\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"whole-wheat\", measure: \"1\", grams: \"40\", calories: \"102\", protein: \"4\", fat: \"1\", sat.fat: \"0\", fiber: \"0.1\", carbs: \"20\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Spaghetti with meat sauce\", measure: \"1 cup\", grams: \"250\", calories: \"285\", protein: \"13\", fat: \"10\", sat.fat: \"6\", fiber: \"0.50\", carbs: \"35\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"with tomatoes and cheese\", measure: \"1 cup\", grams: \"250\", calories: \"210\", protein: \"6\", fat: \"5\", sat.fat: \"3\", fiber: \"0.50\", carbs: \"36\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Spanish rice\", measure: \"1 cup\", grams: \"250\", calories: \"217\", protein: \"4\", fat: \"4\", sat.fat: \"0\", fiber: \"1.20\", carbs: \"40\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Shredded wheat biscuit\", measure: \"1\", grams: \"28\", calories: \"100\", protein: \"3\", fat: \"1\", sat.fat: \"0\", fiber: \"0.70\", carbs: \"23\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Waffles\", measure: \"1\", grams: \"75\", calories: \"240\", protein: \"8\", fat: \"9\", sat.fat: \"1\", fiber: \"0.10\", carbs: \"30\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Wheat germ\", measure: \"1 cup\", grams: \"68\", calories: \"245\", protein: \"17\", fat: \"7\", sat.fat: \"3\", fiber: \"2.50\", carbs: \"34\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Wheat-germ cereal toasted\", measure: \"1 cup\", grams: \"65\", calories: \"260\", protein: \"20\", fat: \"7\", sat.fat: \"3\", fiber: \"2.50\", carbs: \"36\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Wheat meal cereal unrefined\", measure: \"3/4 cup\", grams: \"30\", calories: \"103\", protein: \"4\", fat: \"1\", sat.fat: \"0\", fiber: \"0.70\", carbs: \"25\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Wheat, cooked\", measure: \"3/4 cup\", grams: \"200\", calories: \"275\", protein: \"12\", fat: \"1\", sat.fat: \"0\", fiber: \"4.40\", carbs: \"35\", category: \"Breads, cereals, fastfood,grains\""}
+{"text": "food: \"Bean soups\", measure: \"1 cup\", grams: \"250\", calories: \"190\", protein: \"8\", fat: \"5\", sat.fat: \"4\", fiber: \"0.60\", carbs: \"30\", category: \"Soups\""}
+{"text": "food: \"Beef soup\", measure: \"1 cup\", grams: \"250\", calories: \"100\", protein: \"6\", fat: \"4\", sat.fat: \"4\", fiber: \"0.50\", carbs: \"11\", category: \"Soups\""}
+{"text": "food: \"Bouillon\", measure: \"1 cup\", grams: \"240\", calories: \"24\", protein: \"5\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Soups\""}
+{"text": "food: \"chicken soup\", measure: \"1 cup\", grams: \"250\", calories: \"75\", protein: \"4\", fat: \"2\", sat.fat: \"2\", fiber: \"0\", carbs: \"10\", category: \"Soups\""}
+{"text": "food: \"Clam chowder\", measure: \"1 cup\", grams: \"255\", calories: \"85\", protein: \"5\", fat: \"2\", sat.fat: \"8\", fiber: \"0.50\", carbs: \"12\", category: \"Soups\""}
+{"text": "food: \"Cream soups\", measure: \"1 cup\", grams: \"255\", calories: \"200\", protein: \"7\", fat: \"12\", sat.fat: \"11\", fiber: \"1.20\", carbs: \"18\", category: \"Soups\""}
+{"text": "food: \"Noodle\", measure: \"1 cup\", grams: \"250\", calories: \"115\", protein: \"6\", fat: \"4\", sat.fat: \"3\", fiber: \"0.20\", carbs: \"13\", category: \"Soups\""}
+{"text": "food: \"Split-pea soup\", measure: \"1 cup\", grams: \"250\", calories: \"147\", protein: \"8\", fat: \"3\", sat.fat: \"3\", fiber: \"0.50\", carbs: \"25\", category: \"Soups\""}
+{"text": "food: \"Tomato soup\", measure: \"1 cup\", grams: \"245\", calories: \"175\", protein: \"6\", fat: \"7\", sat.fat: \"6\", fiber: \"0.50\", carbs: \"22\", category: \"Soups\""}
+{"text": "food: \"Vegetable\", measure: \"1 cup\", grams: \"250\", calories: \"80\", protein: \"4\", fat: \"2\", sat.fat: \"2\", fiber: \"0\", carbs: \"14\", category: \"Soups\""}
+{"text": "food: \"Apple betty\", measure: \"1 serving\", grams: \"100\", calories: \"150\", protein: \"1\", fat: \"4\", sat.fat: \"0\", fiber: \"0.5\", carbs: \"29\", category: \"Desserts, sweets\""}
+{"text": "food: \"Bread pudding\", measure: \"3/4 cup\", grams: \"200\", calories: \"374\", protein: \"11\", fat: \"12\", sat.fat: \"11\", fiber: \"0.20\", carbs: \"56\", category: \"Desserts, sweets\""}
+{"text": "food: \"Cakes\", measure: \"1 slice\", grams: \"40\", calories: \"110\", protein: \"3\", fat: \"t\", sat.fat: \"0\", fiber: \"0\", carbs: \"23\", category: \"Desserts, sweets\""}
+{"text": "food: \"Chocolate fudge\", measure: \"1 slice\", grams: \"120\", calories: \"420\", protein: \"5\", fat: \"14\", sat.fat: \"12\", fiber: \"0.3\", carbs: \"70\", category: \"Desserts, sweets\""}
+{"text": "food: \"Cupcake\", measure: \"1\", grams: \"50\", calories: \"160\", protein: \"3\", fat: \"3\", sat.fat: \"2\", fiber: \"t\", carbs: \"31\", category: \"Desserts, sweets\""}
+{"text": "food: \"Fruit cake\", measure: \"1 slice\", grams: \"30\", calories: \"105\", protein: \"2\", fat: \"4\", sat.fat: \"3\", fiber: \"0.2\", carbs: \"17\", category: \"Desserts, sweets\""}
+{"text": "food: \"Gingerbread\", measure: \"1 slice\", grams: \"55\", calories: \"180\", protein: \"2\", fat: \"7\", sat.fat: \"6\", fiber: \"t\", carbs: \"28\", category: \"Desserts, sweets\""}
+{"text": "food: \"Plain, with no icing\", measure: \"1 slice\", grams: \"55\", calories: \"180\", protein: \"4\", fat: \"5\", sat.fat: \"4\", fiber: \"t\", carbs: \"31\", category: \"Desserts, sweets\""}
+{"text": "food: \"Sponge cake\", measure: \"1 slice\", grams: \"40\", calories: \"115\", protein: \"3\", fat: \"2\", sat.fat: \"2\", fiber: \"0\", carbs: \"22\", category: \"Desserts, sweets\""}
+{"text": "food: \"Candy\", measure: \"5\", grams: \"25\", calories: \"104\", protein: \"t\", fat: \"3\", sat.fat: \"3\", fiber: \"0\", carbs: \"19\", category: \"Desserts, sweets\""}
+{"text": "food: \"Chocolate creams\", measure: \"2\", grams: \"30\", calories: \"130\", protein: \"t\", fat: \"4\", sat.fat: \"4\", fiber: \"0\", carbs: \"24\", category: \"Desserts, sweets\""}
+{"text": "food: \"Fudge\", measure: \"2 pieces\", grams: \"90\", calories: \"370\", protein: \"t\", fat: \"12\", sat.fat: \"11\", fiber: \"0.1\", carbs: \"80\", category: \"Desserts, sweets\""}
+{"text": "food: \"Hard candies\", measure: \"1 oz.\", grams: \"28\", calories: \"90\", protein: \"t\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"28\", category: \"Desserts, sweets\""}
+{"text": "food: \"Marshmallows\", measure: \"5\", grams: \"30\", calories: \"98\", protein: \"1\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"23\", category: \"Desserts, sweets\""}
+{"text": "food: \"Milk chocolate\", measure: \"2-oz. bar\", grams: \"56\", calories: \"290\", protein: \"2\", fat: \"6\", sat.fat: \"6\", fiber: \"0.2\", carbs: \"44\", category: \"Desserts, sweets\""}
+{"text": "food: \"Chocolate syrup\", measure: \"2 T.\", grams: \"40\", calories: \"80\", protein: \"t\", fat: \"t\", sat.fat: \"t\", fiber: \"0\", carbs: \"22\", category: \"Desserts, sweets\""}
+{"text": "food: \"Doughnuts\", measure: \"1\", grams: \"33\", calories: \"135\", protein: \"2\", fat: \"7\", sat.fat: \"4\", fiber: \"t\", carbs: \"17\", category: \"Desserts, sweets\""}
+{"text": "food: \"Gelatin, made with water\", measure: \"1 cup\", grams: \"239\", calories: \"155\", protein: \"4\", fat: \"t\", sat.fat: \"t\", fiber: \"0\", carbs: \"36\", category: \"Desserts, sweets\""}
+{"text": "food: \"Honey\", measure: \"2 T.\", grams: \"42\", calories: \"120\", protein: \"t\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"30\", category: \"Jams, Jellies\""}
+{"text": "food: \"Ice cream\", measure: \"2 cups\", grams: \"300\", calories: \"250\", protein: \"0\", fat: \"0\", sat.fat: \"12\", fiber: \"10\", carbs: \"0\", category: \"Desserts, sweets\""}
+{"text": "food: \"Ices\", measure: \"1 cup\", grams: \"150\", calories: \"117\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"48\", category: \"Desserts, sweets\""}
+{"text": "food: \"preserves\", measure: \"1 T.\", grams: \"20\", calories: \"55\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"t\", carbs: \"14\", category: \"Jams, Jellies\""}
+{"text": "food: \"Jellies\", measure: \"1 T.\", grams: \"20\", calories: \"50\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"13\", category: \"Jams, Jellies\""}
+{"text": "food: \"Molasses\", measure: \"1 T.\", grams: \"20\", calories: \"45\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"8\", carbs: \"11\", category: \"Jams, Jellies\""}
+{"text": "food: \"Cane Syrup\", measure: \"1 T.\", grams: \"20\", calories: \"50\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"13\", category: \"Jams, Jellies\""}
+{"text": "food: \"9\" diam. pie\", measure: \"1 slice\", grams: \"135\", calories: \"330\", protein: \"3\", fat: \"13\", sat.fat: \"11\", fiber: \"0.1\", carbs: \"53\", category: \"Desserts, sweets\""}
+{"text": "food: \"Cherry Pie\", measure: \"1 slice\", grams: \"135\", calories: \"340\", protein: \"3\", fat: \"13\", sat.fat: \"11\", fiber: \"0.1\", carbs: \"55\", category: \"Desserts, sweets\""}
+{"text": "food: \"Custard\", measure: \"1 slice\", grams: \"130\", calories: \"265\", protein: \"7\", fat: \"11\", sat.fat: \"10\", fiber: \"0\", carbs: \"34\", category: \"Desserts, sweets\""}
+{"text": "food: \"Lemon meringue\", measure: \"1 slice\", grams: \"120\", calories: \"300\", protein: \"4\", fat: \"12\", sat.fat: \"10\", fiber: \"0.1\", carbs: \"45\", category: \"Desserts, sweets\""}
+{"text": "food: \"Mince\", measure: \"1 slice\", grams: \"135\", calories: \"340\", protein: \"3\", fat: \"9\", sat.fat: \"8\", fiber: \"0.70\", carbs: \"62\", category: \"Desserts, sweets\""}
+{"text": "food: \"Pumpkin Pie\", measure: \"1 slice\", grams: \"130\", calories: \"265\", protein: \"5\", fat: \"12\", sat.fat: \"11\", fiber: \"8\", carbs: \"34\", category: \"Desserts, sweets\""}
+{"text": "food: \"Puddings Sugar\", measure: \"1 cup\", grams: \"200\", calories: \"770\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"199\", category: \"Desserts, sweets\""}
+{"text": "food: \"3 teaspoons sugar\", measure: \"1 T.\", grams: \"12\", calories: \"50\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"12\", category: \"Desserts, sweets\""}
+{"text": "food: \"Brown, firm-packed, dark sugar\", measure: \"1 cup\", grams: \"220\", calories: \"815\", protein: \"0\", fat: \"t\", sat.fat: \"0\", fiber: \"0\", carbs: \"210\", category: \"Jams, Jellies\""}
+{"text": "food: \"Syrup\", measure: \"2 T.\", grams: \"40\", calories: \"100\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"25\", category: \"Jams, Jellies\""}
+{"text": "food: \"table blends sugar\", measure: \"2 T.\", grams: \"40\", calories: \"110\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"29\", category: \"Jams, Jellies\""}
+{"text": "food: \"Tapioca cream pudding\", measure: \"1 cup\", grams: \"250\", calories: \"335\", protein: \"10\", fat: \"10\", sat.fat: \"9\", fiber: \"0\", carbs: \"42\", category: \"Desserts, sweets\""}
+{"text": "food: \"Almonds\", measure: \"1/2 cup\", grams: \"70\", calories: \"425\", protein: \"13\", fat: \"38\", sat.fat: \"28\", fiber: \"1.8\", carbs: \"13\", category: \"Seeds and Nuts\""}
+{"text": "food: \"roasted and salted\", measure: \"1/2 cup\", grams: \"70\", calories: \"439\", protein: \"13\", fat: \"40\", sat.fat: \"31\", fiber: \"1.8\", carbs: \"13\", category: \"Seeds and Nuts\""}
+{"text": "food: \"Brazil nuts\", measure: \"1/2 cup\", grams: \"70\", calories: \"457\", protein: \"10\", fat: \"47\", sat.fat: \"31\", fiber: \"2\", carbs: \"7\", category: \"Seeds and Nuts\""}
+{"text": "food: \"Cashews\", measure: \"1/2 cup\", grams: \"70\", calories: \"392\", protein: \"12\", fat: \"32\", sat.fat: \"28\", fiber: \"0.9\", carbs: \"20\", category: \"Seeds and Nuts\""}
+{"text": "food: \"coconut sweetened\", measure: \"1/2 cup\", grams: \"50\", calories: \"274\", protein: \"1\", fat: \"20\", sat.fat: \"19\", fiber: \"2\", carbs: \"26\", category: \"Seeds and Nuts\""}
+{"text": "food: \"Peanut butter\", measure: \"1/3 cup\", grams: \"50\", calories: \"300\", protein: \"12\", fat: \"25\", sat.fat: \"17\", fiber: \"0.9\", carbs: \"9\", category: \"Seeds and Nuts\""}
+{"text": "food: \"Peanut butter, natural\", measure: \"1/3 cup\", grams: \"50\", calories: \"284\", protein: \"13\", fat: \"24\", sat.fat: \"10\", fiber: \"0.9\", carbs: \"8\", category: \"Seeds and Nuts\""}
+{"text": "food: \"Peanuts\", measure: \"1/3 cup\", grams: \"50\", calories: \"290\", protein: \"13\", fat: \"25\", sat.fat: \"16\", fiber: \"1.2\", carbs: \"9\", category: \"Seeds and Nuts\""}
+{"text": "food: \"Pecans\", measure: \"1/2 cup\", grams: \"52\", calories: \"343\", protein: \"5\", fat: \"35\", sat.fat: \"25\", fiber: \"1.1\", carbs: \"7\", category: \"Seeds and Nuts\""}
+{"text": "food: \"Sesame seeds\", measure: \"1/2 cup\", grams: \"50\", calories: \"280\", protein: \"9\", fat: \"24\", sat.fat: \"13\", fiber: \"3.1\", carbs: \"10\", category: \"Seeds and Nuts\""}
+{"text": "food: \"Sunflower seeds\", measure: \"1/2 cup\", grams: \"50\", calories: \"280\", protein: \"12\", fat: \"26\", sat.fat: \"7\", fiber: \"1.9\", carbs: \"10\", category: \"Seeds and Nuts\""}
+{"text": "food: \"Walnuts\", measure: \"1/2 cup\", grams: \"50\", calories: \"325\", protein: \"7\", fat: \"32\", sat.fat: \"7\", fiber: \"1\", carbs: \"8\", category: \"Seeds and Nuts\""}
+{"text": "food: \"Beer\", measure: \"2 cups\", grams: \"480\", calories: \"228\", protein: \"t\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"8\", category: \"Drinks,Alcohol, Beverages\""}
+{"text": "food: \"Gin\", measure: \"1 oz.\", grams: \"28\", calories: \"70\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"t\", category: \"Drinks,Alcohol, Beverages\""}
+{"text": "food: \"Wines\", measure: \"1/2 cup\", grams: \"120\", calories: \"164\", protein: \"t\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"9\", category: \"Drinks,Alcohol, Beverages\""}
+{"text": "food: \"Table (12.2% alcohol)\", measure: \"1/2 cup\", grams: \"120\", calories: \"100\", protein: \"t\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"5\", category: \"Drinks,Alcohol, Beverages\""}
+{"text": "food: \"Carbonated drinks Artificially sweetened\", measure: \"12 oz.\", grams: \"346\", calories: \"0\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Drinks,Alcohol, Beverages\""}
+{"text": "food: \"Club soda\", measure: \"12 oz.\", grams: \"346\", calories: \"0\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"0\", category: \"Drinks,Alcohol, Beverages\""}
+{"text": "food: \"Cola drinks\", measure: \"12 oz.\", grams: \"346\", calories: \"137\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"38\", category: \"Drinks,Alcohol, Beverages\""}
+{"text": "food: \"Fruit-flavored soda\", measure: \"12 oz.\", grams: \"346\", calories: \"161\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"42\", category: \"Drinks,Alcohol, Beverages\""}
+{"text": "food: \"Ginger ale\", measure: \"12 oz.\", grams: \"346\", calories: \"105\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"28\", category: \"Drinks,Alcohol, Beverages\""}
+{"text": "food: \"Root beer\", measure: \"12 oz.\", grams: \"346\", calories: \"140\", protein: \"0\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"35\", category: \"Drinks,Alcohol, Beverages\""}
+{"text": "food: \"Coffee\", measure: \"1 cup\", grams: \"230\", calories: \"3\", protein: \"t\", fat: \"0\", sat.fat: \"0\", fiber: \"0\", carbs: \"1\", category: \"Drinks,Alcohol, Beverages\""}
+{"text": "food: \"Tea\", measure: \"1 cup\", grams: \"230\", calories: \"4\", protein: \"0\", fat: \"t\", sat.fat: \"0\", fiber: \"0\", carbs: \"1\", category: \"Drinks,Alcohol, Beverages\""}
