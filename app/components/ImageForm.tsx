@@ -1,10 +1,14 @@
-"use client";
+"use client"
 import React, { useState, ChangeEvent, FC } from 'react';
 import ImageUpload from './ImageUpload'
 import styles from './ImageForm.module.css'
 
+type ImageFormProps = {
+  handleUpload: (file: File) => void;
 
-const ImageForm: FC = () => {
+}
+
+const ImageForm: FC<ImageFormProps> = ({ handleUpload }) => {
 
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e?.preventDefault();
@@ -12,12 +16,11 @@ const ImageForm: FC = () => {
     const target = e.target as any
     const file: File = target[0].files[0]
 
-    if (file) {
-      console.log(file)
-    }
-    else {
+    if (!file) {
       console.error("No file selected")
     }
+
+    handleUpload(file)
   };
   
   return (
