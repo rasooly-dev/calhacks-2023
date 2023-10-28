@@ -3,6 +3,8 @@
 import ImageForm from './components/ImageForm'
 import styles from './LandingPage.module.css'
 
+import Pizza from '@/assets/pizza.png'
+
 const UploadPage = () => {
 
   const handleImageUpload = async (file: File) => {
@@ -22,12 +24,21 @@ const UploadPage = () => {
     })
   }
 
+  // const llava = useAction(api.replicate.llava)
+
+  // useEffect(() => {
+  //   llava({
+  //     image: Pizza
+  //   }).then(output => Object.values(output).join(''))
+  //     .then(console.log)
+  // }, [])
+
   return (
     <div className={styles.page}>
       <h1> Upload Image </h1>
       <ImageForm handleUpload={handleImageUpload}/>
     </div>
   )
-} 
+}
 
 export default UploadPage
