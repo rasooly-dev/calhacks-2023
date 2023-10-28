@@ -1,9 +1,13 @@
+import ImageUpload from './components/ImageUpload'
+import './globals.css'
 
-export default function Home() {
+const UploadPage = () => {
   return (
     <div>
-      <button> Upload Image </button>
+      <h1> Upload Image </h1>
+      <ImageUpload />
     </div>
   )
-}
+} 
 
+export default UploadPage
