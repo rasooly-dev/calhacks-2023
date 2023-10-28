@@ -5,11 +5,12 @@ import styles from './LandingPage.module.css'
 
 import Pizza from '@/assets/pizza.png'
 
-import { useMutation } from 'convex/react'
+import { useMutation, useAction } from 'convex/react'
 import { api } from "@/convex/_generated/api"
 
 const UploadPage = () => {
   const generateUploadUrl = useMutation(api.store.generateUploadUrl)
+  const createSession = useAction(api.session.createSession)
 
   const handleImageUpload = async (file: File) => {
 
@@ -21,8 +22,15 @@ const UploadPage = () => {
       body: file
     })
     .then(response => response.json())
-    .then(data => {
+    .then(async data => {
       console.log(data)
+      const res = await createSession({
+        storageId: data.storageId,
+      })
+
+      const output = res.output.choices[0].text as string
+      const json = JSON.parse(output.substring(output.indexOf('{'), output.lastIndexOf('}') + 1))
+      console.log(json)
     })
     .catch(error => {
       console.error(error)

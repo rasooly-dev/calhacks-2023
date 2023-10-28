@@ -1,11 +1,11 @@
 "use node"
 
-import { action } from './_generated/server'
+import { action, internalAction } from './_generated/server'
 import { v } from 'convex/values'
 
 import Replicate from 'replicate'
 
-export const llava = action({
+export const llava = internalAction({
     args: { imageURL: v.string() },
     handler: async (_, args) => {
         const replicate = new Replicate({
@@ -23,20 +23,20 @@ export const llava = action({
                     "components": [
                         {
                             "component": "component 1",
-                            "quantity": <component 1 quantity in grams>
+                            "quantity":"<component 1 quantity in grams> grams"
                         },
                         {
                             "component": "component 2",
-                            "quantity": <component 2 quantity in grams>
+                            "quantity": "<component 2 quantity in grams> grams"
                         },
                         {
                             "component": "component 3",
-                            "quantity": <component 3 quantity in grams>
+                            "quantity": "<component 3 quantity in grams> grams"
                         },
                         ...,
                         {
                             "component": "component n",
-                            "quantity": <component n quantity in grams>
+                            "quantity": "<component n quantity in grams> grams"
                         },
                 
                     ]
@@ -46,6 +46,6 @@ export const llava = action({
             }
           );
 
-        return output
+        return Object.values(output).join('')
     }
 })
