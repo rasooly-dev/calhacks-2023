@@ -1,11 +1,12 @@
 import ImageUpload from './components/ImageUpload'
-import './globals.css'
+import ImageForm from './components/ImageForm'
+import styles from './LandingPage.module.css'
 
 const UploadPage = () => {
   return (
-    <div>
+    <div className={styles.page}>
       <h1> Upload Image </h1>
-      <ImageUpload />
+      <ImageForm />
     </div>
   )
 } 
