@@ -16,9 +16,7 @@ const ImageForm: FC<ImageFormProps> = ({ handleUpload }) => {
     const target = e.target as any
     const file: File = target[0].files[0]
 
-    if (!file) {
-      console.error("No file selected")
-    }
+    if (!file) return console.error("No file selected")
 
     handleUpload(file)
   };

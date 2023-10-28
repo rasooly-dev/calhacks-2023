@@ -5,10 +5,15 @@ import styles from './LandingPage.module.css'
 
 import Pizza from '@/assets/pizza.png'
 
+import { useMutation } from 'convex/react'
+import { api } from "@/convex/_generated/api"
+
 const UploadPage = () => {
+  const generateUploadUrl = useMutation(api.store.generateUploadUrl)
 
   const handleImageUpload = async (file: File) => {
-    const sendImageUrl = new URL(`${process.env.NEXT_PUBLIC_CONVEX_URL}/sendImage`)
+
+    const sendImageUrl = await generateUploadUrl()
 
     fetch(sendImageUrl.toString(), {
       method: 'POST',

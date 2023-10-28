@@ -15,6 +15,7 @@ import type {
   FunctionReference,
 } from "convex/server";
 import type * as replicate from "../replicate";
+import type * as store from "../store";
 
 /**
  * A utility for referencing Convex functions in your app's API.
@@ -26,6 +27,7 @@ import type * as replicate from "../replicate";
  */
 declare const fullApi: ApiFromModules<{
   replicate: typeof replicate;
+  store: typeof store;
 }>;
 export declare const api: FilterApi<
   typeof fullApi,
