@@ -1,7 +1,25 @@
+"use client"
+
 import Image from 'next/image'
 import styles from './page.module.css'
 
+import { useAction } from 'convex/react'
+import { api } from '@/convex/_generated/api'
+import { useEffect } from 'react'
+
+import Pizza from '@/assets/pizza.jpeg'
+
 export default function Home() {
+
+  // const llava = useAction(api.replicate.llava)
+
+  // useEffect(() => {
+  //   llava({
+  //     image: Pizza
+  //   }).then(output => Object.values(output).join(''))
+  //     .then(console.log)
+  // }, [])
+
   return (
     <main className={styles.main}>
       <div className={styles.description}>
