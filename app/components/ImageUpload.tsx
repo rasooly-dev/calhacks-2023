@@ -1,24 +1,28 @@
 "use client"
-import React, { ChangeEvent, FC } from 'react';
+import React, { useState, ChangeEvent, FC } from 'react';
 import styles from './ImageUpload.module.css'
 
 interface ImageUploadProps {
   onImageChange: (e: ChangeEvent<HTMLInputElement>) => void; 
 }
 
-const ImageUploader: FC = () => {
+const ImageUploader: FC = ( onImageChange ) => {
+
+  const [fileName, setFileName] = useState(null);
+
   const handleImageChange = (e: ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
     if (file) {
-      // Do something with the file (e.g., upload to server, display as a preview, etc.)
-      console.log(file);
+      setFileName(file.name)
     } else {
-      console.log('file not found')
+      console.log("File not found")
     }
   };
 
   return (
     <>
+
+      {fileName && <p>Your Selected File: {fileName}</p>} {/* Display the file name if available */}
       <label htmlFor="image-upload" className={styles.button}>
         Upload an Image
       </label>

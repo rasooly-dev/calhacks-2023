@@ -9,19 +9,28 @@
 .form > button {
   all: unset;
 
-  background-color: #0070f3;
-  color: white;
+  border: 2px solid gray;
+
+  background-color: #5072A740;
+  color: gray;
+
   padding: 10px 20px;
   border-radius: 5px;
   display: inline-block;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
-  transition: background-color 0.2s;
+  transition: background-color 0.2s ease-in-out;
 
 
 }
 
 .form > button:hover {
-  background-color: #005bd1;
+    background-color: #5072A780;
+}
+
+.form > p {
+    all: unset;
+    text-align: center;
+
 }
