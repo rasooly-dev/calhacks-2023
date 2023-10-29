@@ -8,12 +8,12 @@ interface ImageUploadProps {
 
 const ImageUploader: FC = ( onImageChange ) => {
 
-  const [fileName, setFileName] = useState(null);
+  const [fileName, setFileName] = useState<string>("No file selected");
 
   const handleImageChange = (e: ChangeEvent<HTMLInputElement>) => {
-    const file = e.target.files?.[0];
+    const file = e.target.files?.[0]
     if (file) {
-      setFileName(file.name)
+      setFileName(file.name || "No file selected")
     } else {
       console.log("File not found")
     }
