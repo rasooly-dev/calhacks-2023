@@ -19,7 +19,6 @@ const UploadPage = () => {
     <div className={styles.page}>
       <h1> Upload Image </h1>
       <ImageForm />
-      <JsonOutput data={jsonData} />
     </div>
   )
 } 
