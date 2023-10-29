@@ -1,0 +1,81 @@
+.page {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+    padding: 1rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+
+    min-height: 100dvh;
+}
+
+.page > section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.page > section:first-child {
+    width: 40%;
+}
+
+.page > section > img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.page > section > h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+
+    padding-left: 1rem;
+}
+
+.page > section > h2 {
+    font-size: 1rem;
+    font-weight: 500;
+
+    padding-left: 0.5rem;
+}
+
+.page > section > table {
+    max-width: 25ch;
+    
+    /* border: 1px solid #000000; */
+    border-radius: 0.25rem;
+    /* border-collapse: collapse; */
+
+    gap: 0.5rem;
+
+    /* add a gap between the table entries */
+    border-spacing: 0.5rem;
+
+}
+
+.page > section > table > tr > td {
+    padding: 0.5rem;
+
+    /* border: 1px solid #000000; */
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 0.25rem;
+
+}
+
+.page > section > table > tr > th {
+    font-weight: 600;
+}
+
+.page > section > table > tr > th:nth-child(1) {
+    text-align: left;
+}
+
+.page > section > table > tr > td:nth-child(1) {
+    font-weight: 500;
+}
+
+.page > section > table > tr > td:nth-child(2) {
+    text-align: center;
+}

@@ -8,9 +8,14 @@ import Pizza from '@/assets/pizza.png'
 import { useMutation, useAction } from 'convex/react'
 import { api } from "@/convex/_generated/api"
 
+import { useRouter } from 'next/navigation'
+
 const UploadPage = () => {
   const generateUploadUrl = useMutation(api.store.generateUploadUrl)
   const createSession = useAction(api.session.createSession)
+  const getSessionFromDatabase = useMutation(api.sessiondb.getSessionFromDatabase)
+
+  const router = useRouter()
 
   const handleImageUpload = async (file: File) => {
 
@@ -24,13 +29,11 @@ const UploadPage = () => {
     .then(response => response.json())
     .then(async data => {
       console.log(data)
-      const res = await createSession({
+      const sessionId = await createSession({
         storageId: data.storageId,
       })
 
-      const output = res.output.choices[0].text as string
-      const json = JSON.parse(output.substring(output.indexOf('{'), output.lastIndexOf('}') + 1))
-      console.log(json)
+      console.log(router.push(`/session/${sessionId}`))
     })
     .catch(error => {
       console.error(error)

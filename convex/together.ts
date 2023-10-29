@@ -48,7 +48,14 @@ export const llama_tuned = internalAction({
             method: 'POST'
         })
 
-        return res.json()
+        const resJson: any = await res.json()
+
+        console.log(resJson)
+
+        const output = resJson.output.choices[0].text as string
+        const json = JSON.parse(output.substring(output.indexOf('{'), output.lastIndexOf('}') + 1))
+
+        return json        
     }
 })
 

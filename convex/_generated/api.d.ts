@@ -16,6 +16,7 @@ import type {
 } from "convex/server";
 import type * as replicate from "../replicate";
 import type * as session from "../session";
+import type * as sessiondb from "../sessiondb";
 import type * as store from "../store";
 import type * as together from "../together";
 
@@ -30,6 +31,7 @@ import type * as together from "../together";
 declare const fullApi: ApiFromModules<{
   replicate: typeof replicate;
   session: typeof session;
+  sessiondb: typeof sessiondb;
   store: typeof store;
   together: typeof together;
 }>;
