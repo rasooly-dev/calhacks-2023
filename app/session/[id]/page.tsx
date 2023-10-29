@@ -70,7 +70,7 @@ const SessionPage = ({ params } : { params: { id: string } }) => {
                     { Object.entries(session?.nutritionalValues as object).map(([key, value]) => (
                         <tr>
                             <td> {PrettyLabels[key]}</td>
-                            <td> {value}g</td>
+                            <td> {value}{(key != "total_calories") ? 'g' : 'cals'}</td>
                         </tr>
                     ))}
                 </table>

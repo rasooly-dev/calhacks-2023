@@ -39,21 +39,29 @@ export const llama_tuned = internalAction({
             repitition_penalty: 1
         }
         
-        const res = await fetch("https://api.together.xyz/inference" as string, {
-            headers: {
-                'Content-Type': 'application/json',
-                'Authorization': `Bearer ${process.env.TOGETHER_API_KEY}` as string
-            },
-            body: JSON.stringify(body),
-            method: 'POST'
-        })
+        // keep retrying until we get a response
+        let json
+        
+        while (true) {
+            try {
+                const res = await fetch("https://api.together.xyz/inference" as string, {
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${process.env.TOGETHER_API_KEY}` as string
+                    },
+                    body: JSON.stringify(body),
+                    method: 'POST'
+                })
 
-        const resJson: any = await res.json()
 
-        console.log(resJson)
-
-        const output = resJson.output.choices[0].text as string
-        const json = JSON.parse(output.substring(output.indexOf('{'), output.lastIndexOf('}') + 1))
+                const resJson: any = await res.json()
+                const output = resJson.output.choices[0].text as string
+                json = JSON.parse(output.substring(output.indexOf('{'), output.lastIndexOf('}') + 1))
+                break
+            } catch (e) {
+                console.log(e)
+            }
+        }
 
         return json        
     }

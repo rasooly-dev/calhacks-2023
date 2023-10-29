@@ -1,9 +1,70 @@
 .page {
-  margin: 0;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center; /* Horizontally center */
-  align-items: center;     /* Vertically center */
+  align-items: center;
+  justify-content: center;
+  min-height: 100dvh;
+  width: 100dvw;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
 }
+
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: 100dvh;
+  width: 100dvw;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+.loading > .movable {
+  min-height: 1rem;
+  height: 1rem;
+  min-width: 1rem;
+  width: 1rem;
+
+  border-radius: 0.25rem;
+
+  background-color: black;
+
+  animation: slide 5s infinite ease-in-out;
+}
+
+@keyframes slide {
+  0% {
+    translate: 0 1rem;
+  }
+
+  12.5% {
+    translate: -10rem 1rem; 
+  }
+
+  50% {
+    translate: 10rem 1rem;
+  }
+
+  62.5% {
+    translate: 0 1rem;
+  }
+
+  75% {
+    translate: 0 -0.5rem;
+  }
+
+  87.5% {
+    translate: 0 0.25rem;
+  }
+
+  92.5% {
+    translate: 0 -0.25rem;
+  }
+
+  100% {
+    translate: 0 1rem;
+  }
+
+}
+
+
