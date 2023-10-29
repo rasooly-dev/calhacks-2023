@@ -14,6 +14,11 @@ import type {
   FilterApi,
   FunctionReference,
 } from "convex/server";
+import type * as replicate from "../replicate";
+import type * as session from "../session";
+import type * as sessiondb from "../sessiondb";
+import type * as store from "../store";
+import type * as together from "../together";
 
 /**
  * A utility for referencing Convex functions in your app's API.
@@ -23,7 +28,13 @@ import type {
  * const myFunctionReference = api.myModule.myFunction;
  * ```
  */
-declare const fullApi: ApiFromModules<{}>;
+declare const fullApi: ApiFromModules<{
+  replicate: typeof replicate;
+  session: typeof session;
+  sessiondb: typeof sessiondb;
+  store: typeof store;
+  together: typeof together;
+}>;
 export declare const api: FilterApi<
   typeof fullApi,
   FunctionReference<any, "public">
