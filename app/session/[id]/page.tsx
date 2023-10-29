@@ -47,7 +47,11 @@ const SessionPage = ({ params } : { params: { id: string } }) => {
 
     
     if (!session && !imageURL)
-        return <h1> Loading </h1>
+        return (
+            <div className={styles.page}>
+                <h1> Loading... </h1>
+            </div>
+        )
 
     return (
         <div className={styles.page}>
